@@ -1,0 +1,6156 @@
+--DROP TABLE nfvsn 
+CREATE TABLE NFVSN (STRG VARCHAR2 (50), DT DATE, SALES NUMBER)
+COMMIT;
+
+SET DEFINE OFF
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('08.01.2013', 'dd.mm.yyyy'), 1776309);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('09.01.2013', 'dd.mm.yyyy'), 1670458.8000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('13.01.2013', 'dd.mm.yyyy'), 2065636.4000000022);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('14.01.2013', 'dd.mm.yyyy'), 1736802.800000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('15.01.2013', 'dd.mm.yyyy'), 1689900.8000000028);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('18.01.2013', 'dd.mm.yyyy'), 1974294.2000000018);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('20.01.2013', 'dd.mm.yyyy'), 1653174.6000000015);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('23.01.2013', 'dd.mm.yyyy'), 907708.2999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('27.01.2013', 'dd.mm.yyyy'), 1024624.4999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('01.02.2013', 'dd.mm.yyyy'), 1045591.8000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('03.02.2013', 'dd.mm.yyyy'), 847765.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('04.02.2013', 'dd.mm.yyyy'), 618433.299999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('08.02.2013', 'dd.mm.yyyy'), 930346.4999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('09.02.2013', 'dd.mm.yyyy'), 1027636.4000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('10.02.2013', 'dd.mm.yyyy'), 509113.1999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('11.02.2013', 'dd.mm.yyyy'), 955826.3999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('12.02.2013', 'dd.mm.yyyy'), 872409.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('13.02.2013', 'dd.mm.yyyy'), 943390.3);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('19.02.2013', 'dd.mm.yyyy'), 937506.6999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('23.02.2013', 'dd.mm.yyyy'), 1114301.3);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('27.02.2013', 'dd.mm.yyyy'), 897056.7999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('28.02.2013', 'dd.mm.yyyy'), 1005086.9999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('07.03.2013', 'dd.mm.yyyy'), 2075221.300000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('17.03.2013', 'dd.mm.yyyy'), 1093015.0999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('21.03.2013', 'dd.mm.yyyy'), 928128.0000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('25.03.2013', 'dd.mm.yyyy'), 960227.8999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('28.03.2013', 'dd.mm.yyyy'), 991072.2999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('29.03.2013', 'dd.mm.yyyy'), 1059445.0999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('01.04.2013', 'dd.mm.yyyy'), 889222.9000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('02.04.2013', 'dd.mm.yyyy'), 1003981.6000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('06.04.2013', 'dd.mm.yyyy'), 1064343.2);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('11.04.2013', 'dd.mm.yyyy'), 888212.7999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('18.04.2013', 'dd.mm.yyyy'), 991440.5000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('21.04.2013', 'dd.mm.yyyy'), 976792.8000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('23.04.2013', 'dd.mm.yyyy'), 978185.2999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('27.04.2013', 'dd.mm.yyyy'), 1091074.4);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('29.04.2013', 'dd.mm.yyyy'), 885683.2999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('30.04.2013', 'dd.mm.yyyy'), 1134849.6999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('17.05.2013', 'dd.mm.yyyy'), 702658.9999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('18.05.2013', 'dd.mm.yyyy'), 1336958.9);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('22.05.2013', 'dd.mm.yyyy'), 938159.5999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('26.05.2013', 'dd.mm.yyyy'), 944847.7999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('31.05.2013', 'dd.mm.yyyy'), 1298720.9);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('04.06.2013', 'dd.mm.yyyy'), 1015271.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('06.06.2013', 'dd.mm.yyyy'), 966755.8999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('14.06.2013', 'dd.mm.yyyy'), 1143091.2999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('20.06.2013', 'dd.mm.yyyy'), 873342.8999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('24.06.2013', 'dd.mm.yyyy'), 945348.5999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('27.06.2013', 'dd.mm.yyyy'), 953488.6000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('30.06.2013', 'dd.mm.yyyy'), 912453.4999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('03.07.2013', 'dd.mm.yyyy'), 826308.5999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('04.07.2013', 'dd.mm.yyyy'), 965928.899999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('06.07.2013', 'dd.mm.yyyy'), 861645.3999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('14.07.2013', 'dd.mm.yyyy'), 757966.5999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('17.07.2013', 'dd.mm.yyyy'), 1022869.099999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('18.07.2013', 'dd.mm.yyyy'), 991757.7999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('21.07.2013', 'dd.mm.yyyy'), 910078.3999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('02.08.2013', 'dd.mm.yyyy'), 1094365.5);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('08.08.2013', 'dd.mm.yyyy'), 884463.9999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('14.08.2013', 'dd.mm.yyyy'), 831535.4999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('18.08.2013', 'dd.mm.yyyy'), 823699.7999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('25.08.2013', 'dd.mm.yyyy'), 914355.2999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('26.08.2013', 'dd.mm.yyyy'), 829950.0999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('29.08.2013', 'dd.mm.yyyy'), 1018692.1);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('31.08.2013', 'dd.mm.yyyy'), 1063010.9000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('05.09.2013', 'dd.mm.yyyy'), 963218.4999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('11.09.2013', 'dd.mm.yyyy'), 937180.6999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('14.09.2013', 'dd.mm.yyyy'), 1120604.6999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('15.09.2013', 'dd.mm.yyyy'), 930306.1999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('19.09.2013', 'dd.mm.yyyy'), 1054583.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('25.09.2013', 'dd.mm.yyyy'), 951495.6999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('10.10.2013', 'dd.mm.yyyy'), 1115111.0999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('13.10.2013', 'dd.mm.yyyy'), 949043.7999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('15.10.2013', 'dd.mm.yyyy'), 968309.2999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('17.10.2013', 'dd.mm.yyyy'), 1041327.1999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('21.10.2013', 'dd.mm.yyyy'), 980821.7999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('25.10.2013', 'dd.mm.yyyy'), 1191493.9000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('28.10.2013', 'dd.mm.yyyy'), 970715.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('02.11.2013', 'dd.mm.yyyy'), 1137343.2999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('08.11.2013', 'dd.mm.yyyy'), 1187872.8000000012);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('09.11.2013', 'dd.mm.yyyy'), 1135858.7000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('10.11.2013', 'dd.mm.yyyy'), 899801.7999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('12.11.2013', 'dd.mm.yyyy'), 926369.3999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('21.11.2013', 'dd.mm.yyyy'), 1101395.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('22.11.2013', 'dd.mm.yyyy'), 1120341.6999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('29.11.2013', 'dd.mm.yyyy'), 1304743.9999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('04.12.2013', 'dd.mm.yyyy'), 972282.3999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('07.12.2013', 'dd.mm.yyyy'), 1289958.500000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('12.12.2013', 'dd.mm.yyyy'), 1015889.8999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('17.12.2013', 'dd.mm.yyyy'), 1017473.7999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('21.12.2013', 'dd.mm.yyyy'), 1214384.299999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('30.12.2013', 'dd.mm.yyyy'), 2065799.3000000033);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('01.01.2014', 'dd.mm.yyyy'), 602127.9999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('05.01.2014', 'dd.mm.yyyy'), 888593.2999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('12.01.2014', 'dd.mm.yyyy'), 896596.6999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('13.01.2014', 'dd.mm.yyyy'), 1128323.0999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('15.01.2014', 'dd.mm.yyyy'), 1035860.7999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('16.01.2014', 'dd.mm.yyyy'), 1051559.2999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('29.01.2014', 'dd.mm.yyyy'), 946353.1999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('02.02.2014', 'dd.mm.yyyy'), 871138.8999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('14.02.2014', 'dd.mm.yyyy'), 1303175.0000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('15.02.2014', 'dd.mm.yyyy'), 1238123.5999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('16.02.2014', 'dd.mm.yyyy'), 869798.5999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('17.02.2014', 'dd.mm.yyyy'), 943689.9999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('21.02.2014', 'dd.mm.yyyy'), 1357597.2000000014);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('25.02.2014', 'dd.mm.yyyy'), 1075513.8);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('27.02.2014', 'dd.mm.yyyy'), 1141896.2999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('28.02.2014', 'dd.mm.yyyy'), 1236672);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('08.03.2014', 'dd.mm.yyyy'), 1658014.6000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('18.03.2014', 'dd.mm.yyyy'), 1168420.8999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('21.03.2014', 'dd.mm.yyyy'), 1301195.2000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('22.03.2014', 'dd.mm.yyyy'), 1183712.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('24.03.2014', 'dd.mm.yyyy'), 1068695.0999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('31.03.2014', 'dd.mm.yyyy'), 1018590.0999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('05.04.2014', 'dd.mm.yyyy'), 1194736.9000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('06.04.2014', 'dd.mm.yyyy'), 990311.9999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('12.04.2014', 'dd.mm.yyyy'), 1182234.5999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('14.04.2014', 'dd.mm.yyyy'), 830530.6999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('15.04.2014', 'dd.mm.yyyy'), 1051570.0999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('17.04.2014', 'dd.mm.yyyy'), 1230048.7999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('18.04.2014', 'dd.mm.yyyy'), 1397078.8000000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('19.04.2014', 'dd.mm.yyyy'), 1438293.3000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('20.04.2014', 'dd.mm.yyyy'), 1014977.7999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('22.04.2014', 'dd.mm.yyyy'), 964465.1999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('24.04.2014', 'dd.mm.yyyy'), 1216864.1);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('28.04.2014', 'dd.mm.yyyy'), 1070138.9999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('01.05.2014', 'dd.mm.yyyy'), 1121655.2000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('05.05.2014', 'dd.mm.yyyy'), 995870.3999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('10.05.2014', 'dd.mm.yyyy'), 1032952.8999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('15.05.2014', 'dd.mm.yyyy'), 1295477.8000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('19.05.2014', 'dd.mm.yyyy'), 1046468.1999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('26.05.2014', 'dd.mm.yyyy'), 1055872.8999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('04.06.2014', 'dd.mm.yyyy'), 1079242.2999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('06.06.2014', 'dd.mm.yyyy'), 1073833.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('07.06.2014', 'dd.mm.yyyy'), 1213454.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('08.06.2014', 'dd.mm.yyyy'), 972137.0999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('09.06.2014', 'dd.mm.yyyy'), 1067101.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('15.06.2014', 'dd.mm.yyyy'), 947803.199999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('19.06.2014', 'dd.mm.yyyy'), 1315900.6999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('21.06.2014', 'dd.mm.yyyy'), 1125250.2999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('22.06.2014', 'dd.mm.yyyy'), 1055439.099999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('23.06.2014', 'dd.mm.yyyy'), 1056738.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('27.06.2014', 'dd.mm.yyyy'), 1347684.4000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('29.06.2014', 'dd.mm.yyyy'), 1090252.3999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('02.07.2014', 'dd.mm.yyyy'), 1131779.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('05.07.2014', 'dd.mm.yyyy'), 1054377.799999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('11.07.2014', 'dd.mm.yyyy'), 1151944.9999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('18.07.2014', 'dd.mm.yyyy'), 1156114.4);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('20.07.2014', 'dd.mm.yyyy'), 909660.2999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('21.07.2014', 'dd.mm.yyyy'), 1016812.3999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('23.07.2014', 'dd.mm.yyyy'), 948071.4999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('24.07.2014', 'dd.mm.yyyy'), 963935.7999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('30.07.2014', 'dd.mm.yyyy'), 866713.6999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('08.08.2014', 'dd.mm.yyyy'), 1166100.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('14.08.2014', 'dd.mm.yyyy'), 1109014.9999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('21.08.2014', 'dd.mm.yyyy'), 1102426.9999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('22.08.2014', 'dd.mm.yyyy'), 1140678.9999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('25.08.2014', 'dd.mm.yyyy'), 956501.4999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('28.08.2014', 'dd.mm.yyyy'), 1224447.2);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('13.09.2014', 'dd.mm.yyyy'), 1084526.0999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('15.09.2014', 'dd.mm.yyyy'), 1114967.9999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('18.09.2014', 'dd.mm.yyyy'), 1198084.3999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('20.09.2014', 'dd.mm.yyyy'), 1110028.5999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('26.09.2014', 'dd.mm.yyyy'), 1245330.3000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('27.09.2014', 'dd.mm.yyyy'), 1068371.3999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('04.10.2014', 'dd.mm.yyyy'), 1289320.4999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('06.10.2014', 'dd.mm.yyyy'), 1042321.3999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('08.10.2014', 'dd.mm.yyyy'), 921141.9999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('17.10.2014', 'dd.mm.yyyy'), 1344328.6);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('19.10.2014', 'dd.mm.yyyy'), 1001522.8999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('24.10.2014', 'dd.mm.yyyy'), 1244321.2000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('28.10.2014', 'dd.mm.yyyy'), 1009193.1999999981);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('30.10.2014', 'dd.mm.yyyy'), 1274894.9999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('01.11.2014', 'dd.mm.yyyy'), 1016085.6999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('02.11.2014', 'dd.mm.yyyy'), 1122217.299999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('07.11.2014', 'dd.mm.yyyy'), 1224924.0999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('12.11.2014', 'dd.mm.yyyy'), 1128849.0999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('13.11.2014', 'dd.mm.yyyy'), 1417162.5000000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('16.11.2014', 'dd.mm.yyyy'), 919697.7999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('18.11.2014', 'dd.mm.yyyy'), 1076463.9999999977);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('20.11.2014', 'dd.mm.yyyy'), 1301843.499999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('27.11.2014', 'dd.mm.yyyy'), 1445124.4999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('28.11.2014', 'dd.mm.yyyy'), 1255297.0999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('30.11.2014', 'dd.mm.yyyy'), 1006122.8999999978);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('08.12.2014', 'dd.mm.yyyy'), 1053036.4999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('11.12.2014', 'dd.mm.yyyy'), 1348425.1);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('13.12.2014', 'dd.mm.yyyy'), 1232259.3000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('14.12.2014', 'dd.mm.yyyy'), 993113.7999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('17.12.2014', 'dd.mm.yyyy'), 1186024.3999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('25.12.2014', 'dd.mm.yyyy'), 1624277.4000000022);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('28.12.2014', 'dd.mm.yyyy'), 1175653.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('29.12.2014', 'dd.mm.yyyy'), 1811196.0000000051);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('31.12.2014', 'dd.mm.yyyy'), 2657309.80000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('01.01.2015', 'dd.mm.yyyy'), 531738.3999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('04.01.2015', 'dd.mm.yyyy'), 849238.8999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('08.01.2015', 'dd.mm.yyyy'), 877822.2999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('10.01.2015', 'dd.mm.yyyy'), 888254.7999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('11.01.2015', 'dd.mm.yyyy'), 906943.2999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('15.01.2015', 'dd.mm.yyyy'), 1171269.9999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('23.01.2015', 'dd.mm.yyyy'), 1156412.0999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('25.01.2015', 'dd.mm.yyyy'), 924349.0999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('29.01.2015', 'dd.mm.yyyy'), 1180621.2000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('30.01.2015', 'dd.mm.yyyy'), 1145527.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('01.02.2015', 'dd.mm.yyyy'), 877839.9999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('02.02.2015', 'dd.mm.yyyy'), 997957.1999999976);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('05.02.2015', 'dd.mm.yyyy'), 1186973.4999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('06.02.2015', 'dd.mm.yyyy'), 1176633.9999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('07.02.2015', 'dd.mm.yyyy'), 1055261.7999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('10.02.2015', 'dd.mm.yyyy'), 995284.6999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('13.02.2015', 'dd.mm.yyyy'), 1341266.9999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('14.02.2015', 'dd.mm.yyyy'), 1234785.7999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('18.02.2015', 'dd.mm.yyyy'), 1107968.9999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('25.02.2015', 'dd.mm.yyyy'), 982025.7999999977);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('26.02.2015', 'dd.mm.yyyy'), 1080429.8999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('02.03.2015', 'dd.mm.yyyy'), 968738.099999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('03.03.2015', 'dd.mm.yyyy'), 1041016.4999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('09.03.2015', 'dd.mm.yyyy'), 872058.8999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('11.03.2015', 'dd.mm.yyyy'), 900076.7999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('13.03.2015', 'dd.mm.yyyy'), 1125646.299999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('14.03.2015', 'dd.mm.yyyy'), 1136322.2);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('16.03.2015', 'dd.mm.yyyy'), 999533.6999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('30.03.2015', 'dd.mm.yyyy'), 974889.8999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('03.04.2015', 'dd.mm.yyyy'), 1163625.3999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('05.04.2015', 'dd.mm.yyyy'), 965516.1999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('08.04.2015', 'dd.mm.yyyy'), 1030198.4999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('09.04.2015', 'dd.mm.yyyy'), 1196957.9999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('11.04.2015', 'dd.mm.yyyy'), 1353496.8000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('13.04.2015', 'dd.mm.yyyy'), 943441.7999999981);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('14.04.2015', 'dd.mm.yyyy'), 996880.5999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('02.05.2015', 'dd.mm.yyyy'), 845969.2999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('04.05.2015', 'dd.mm.yyyy'), 846084.1999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('13.05.2015', 'dd.mm.yyyy'), 979867.0999999981);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('21.05.2015', 'dd.mm.yyyy'), 1024530.1999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('22.05.2015', 'dd.mm.yyyy'), 1186144.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('27.05.2015', 'dd.mm.yyyy'), 932723.6999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('28.05.2015', 'dd.mm.yyyy'), 1105215.2999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('29.05.2015', 'dd.mm.yyyy'), 1045449.5999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('09.06.2015', 'dd.mm.yyyy'), 979673.099999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('10.06.2015', 'dd.mm.yyyy'), 1064391.0999999978);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('13.06.2015', 'dd.mm.yyyy'), 1266890.8999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('19.06.2015', 'dd.mm.yyyy'), 1284998.5);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('24.06.2015', 'dd.mm.yyyy'), 984371.5999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('25.06.2015', 'dd.mm.yyyy'), 1198288.5999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('01.07.2015', 'dd.mm.yyyy'), 1074744.8999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('05.07.2015', 'dd.mm.yyyy'), 923291.1999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('08.07.2015', 'dd.mm.yyyy'), 914548.4999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('11.07.2015', 'dd.mm.yyyy'), 1012124.7999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('15.07.2015', 'dd.mm.yyyy'), 932484.3999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('18.07.2015', 'dd.mm.yyyy'), 1031046.8999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('20.07.2015', 'dd.mm.yyyy'), 1003153.3999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('21.07.2015', 'dd.mm.yyyy'), 899670.1999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('12.08.2015', 'dd.mm.yyyy'), 877282.3999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('13.08.2015', 'dd.mm.yyyy'), 1026138.4999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('19.08.2015', 'dd.mm.yyyy'), 912915.0999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('24.08.2015', 'dd.mm.yyyy'), 945442.2999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('27.08.2015', 'dd.mm.yyyy'), 1063465.4999999981);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('29.08.2015', 'dd.mm.yyyy'), 952759.4999999979);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('30.08.2015', 'dd.mm.yyyy'), 984222.4999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('31.08.2015', 'dd.mm.yyyy'), 1094223.4999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('01.09.2015', 'dd.mm.yyyy'), 1034183.2999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('02.09.2015', 'dd.mm.yyyy'), 975748.899999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('06.09.2015', 'dd.mm.yyyy'), 1010540.3999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('08.09.2015', 'dd.mm.yyyy'), 1013231.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('23.09.2015', 'dd.mm.yyyy'), 939911.3999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('27.09.2015', 'dd.mm.yyyy'), 967838.1999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('01.10.2015', 'dd.mm.yyyy'), 1127614.899999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('04.10.2015', 'dd.mm.yyyy'), 882226.3999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('06.10.2015', 'dd.mm.yyyy'), 932580.9999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('12.10.2015', 'dd.mm.yyyy'), 1041489.0999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('13.10.2015', 'dd.mm.yyyy'), 1019999.3999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('14.10.2015', 'dd.mm.yyyy'), 988112.1999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('18.10.2015', 'dd.mm.yyyy'), 872263.9999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('20.10.2015', 'dd.mm.yyyy'), 982899.9999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('27.10.2015', 'dd.mm.yyyy'), 1037939.1000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('28.10.2015', 'dd.mm.yyyy'), 841610.6999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('29.10.2015', 'dd.mm.yyyy'), 1319776.1000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('05.11.2015', 'dd.mm.yyyy'), 1117067.9999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('06.11.2015', 'dd.mm.yyyy'), 1170650.6999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('15.11.2015', 'dd.mm.yyyy'), 1001796.4999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('16.11.2015', 'dd.mm.yyyy'), 1023796.2999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('17.11.2015', 'dd.mm.yyyy'), 980246.5999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('18.11.2015', 'dd.mm.yyyy'), 911397.9999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('20.11.2015', 'dd.mm.yyyy'), 1176857.9);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('01.12.2015', 'dd.mm.yyyy'), 1009759.9999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('04.12.2015', 'dd.mm.yyyy'), 1140981.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('05.12.2015', 'dd.mm.yyyy'), 1051601.8999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('10.12.2015', 'dd.mm.yyyy'), 1203740.3);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('11.12.2015', 'dd.mm.yyyy'), 1221262.3999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('13.12.2015', 'dd.mm.yyyy'), 1061392.1999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('14.12.2015', 'dd.mm.yyyy'), 1040753.2999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('18.12.2015', 'dd.mm.yyyy'), 1314942.1000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('21.12.2015', 'dd.mm.yyyy'), 1141138.1999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('22.12.2015', 'dd.mm.yyyy'), 1103535.3999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('24.12.2015', 'dd.mm.yyyy'), 1987279.8000000042);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('25.12.2015', 'dd.mm.yyyy'), 1703522.1000000036);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('27.12.2015', 'dd.mm.yyyy'), 1203827.0000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 1', to_date('29.12.2015', 'dd.mm.yyyy'), 1675479.0000000019);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('03.01.2013', 'dd.mm.yyyy'), 1551469.1999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('04.01.2013', 'dd.mm.yyyy'), 1296532.8000000012);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('11.01.2013', 'dd.mm.yyyy'), 1667374.8000000017);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('15.01.2013', 'dd.mm.yyyy'), 1046520.9999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('16.01.2013', 'dd.mm.yyyy'), 1454648.4000000013);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('20.01.2013', 'dd.mm.yyyy'), 1337406.599999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('21.01.2013', 'dd.mm.yyyy'), 1383092.0000000028);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('22.01.2013', 'dd.mm.yyyy'), 1394152.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('30.01.2013', 'dd.mm.yyyy'), 621999.4999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('03.02.2013', 'dd.mm.yyyy'), 798327.3999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('12.02.2013', 'dd.mm.yyyy'), 700555.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('13.02.2013', 'dd.mm.yyyy'), 790080.099999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('15.02.2013', 'dd.mm.yyyy'), 988791.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('17.02.2013', 'dd.mm.yyyy'), 888243.899999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('25.02.2013', 'dd.mm.yyyy'), 552136.4999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('26.02.2013', 'dd.mm.yyyy'), 858660.2999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('01.03.2013', 'dd.mm.yyyy'), 976980.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('09.03.2013', 'dd.mm.yyyy'), 842034.4999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('15.03.2013', 'dd.mm.yyyy'), 903174.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('18.03.2013', 'dd.mm.yyyy'), 664026.6999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('20.03.2013', 'dd.mm.yyyy'), 491109.69999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('21.03.2013', 'dd.mm.yyyy'), 920735.7999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('23.03.2013', 'dd.mm.yyyy'), 1142180.7000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('26.03.2013', 'dd.mm.yyyy'), 762135.3999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('11.04.2013', 'dd.mm.yyyy'), 792152.5999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('13.04.2013', 'dd.mm.yyyy'), 1183183.4000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('18.04.2013', 'dd.mm.yyyy'), 718957.3999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('20.04.2013', 'dd.mm.yyyy'), 1135792.7000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('22.04.2013', 'dd.mm.yyyy'), 637714.899999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('26.04.2013', 'dd.mm.yyyy'), 1004986.1);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('28.04.2013', 'dd.mm.yyyy'), 931814.7999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('06.05.2013', 'dd.mm.yyyy'), 614335.9000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('07.05.2013', 'dd.mm.yyyy'), 781957.3999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('08.05.2013', 'dd.mm.yyyy'), 987548.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('11.05.2013', 'dd.mm.yyyy'), 884802.9999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('13.05.2013', 'dd.mm.yyyy'), 712920.5999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('19.05.2013', 'dd.mm.yyyy'), 902502.0999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('22.05.2013', 'dd.mm.yyyy'), 811480.3999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('28.05.2013', 'dd.mm.yyyy'), 877617.0999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('07.06.2013', 'dd.mm.yyyy'), 1036700.1999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('08.06.2013', 'dd.mm.yyyy'), 1279757.0000000014);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('09.06.2013', 'dd.mm.yyyy'), 741013.6999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('10.06.2013', 'dd.mm.yyyy'), 941970.1999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('11.06.2013', 'dd.mm.yyyy'), 845314.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('13.06.2013', 'dd.mm.yyyy'), 778200.5999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('17.06.2013', 'dd.mm.yyyy'), 774539.2999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('21.06.2013', 'dd.mm.yyyy'), 1236587.5);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('24.06.2013', 'dd.mm.yyyy'), 785906.8999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('28.06.2013', 'dd.mm.yyyy'), 1165878.6);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('04.07.2013', 'dd.mm.yyyy'), 860284.1999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('05.07.2013', 'dd.mm.yyyy'), 1242935.9999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('07.07.2013', 'dd.mm.yyyy'), 847653.8999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('11.07.2013', 'dd.mm.yyyy'), 831615.0999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('17.07.2013', 'dd.mm.yyyy'), 905722.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('18.07.2013', 'dd.mm.yyyy'), 1001509.8999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('26.07.2013', 'dd.mm.yyyy'), 1278281.0000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('30.07.2013', 'dd.mm.yyyy'), 944188.7999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('31.07.2013', 'dd.mm.yyyy'), 821939.7999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('11.08.2013', 'dd.mm.yyyy'), 781756.7999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('02.09.2013', 'dd.mm.yyyy'), 786427.2999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('03.09.2013', 'dd.mm.yyyy'), 718103.3999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('04.09.2013', 'dd.mm.yyyy'), 804355.2999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('06.09.2013', 'dd.mm.yyyy'), 1128592.7000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('16.09.2013', 'dd.mm.yyyy'), 726283.9999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('20.09.2013', 'dd.mm.yyyy'), 1013077.6999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('22.09.2013', 'dd.mm.yyyy'), 873272.8000000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('23.09.2013', 'dd.mm.yyyy'), 702501.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('24.09.2013', 'dd.mm.yyyy'), 769379.3999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('28.09.2013', 'dd.mm.yyyy'), 1287119.8);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('01.10.2013', 'dd.mm.yyyy'), 758564.4999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('06.10.2013', 'dd.mm.yyyy'), 868932.1999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('07.10.2013', 'dd.mm.yyyy'), 830609.0999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('13.10.2013', 'dd.mm.yyyy'), 1015920.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('15.10.2013', 'dd.mm.yyyy'), 841188.5999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('16.10.2013', 'dd.mm.yyyy'), 676893.5999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('17.10.2013', 'dd.mm.yyyy'), 905169.8000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('18.10.2013', 'dd.mm.yyyy'), 1081046.8000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('27.10.2013', 'dd.mm.yyyy'), 970865.6999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('28.10.2013', 'dd.mm.yyyy'), 738312.2000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('29.10.2013', 'dd.mm.yyyy'), 755065.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('01.11.2013', 'dd.mm.yyyy'), 1168745.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('11.11.2013', 'dd.mm.yyyy'), 758596.7999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('17.11.2013', 'dd.mm.yyyy'), 1043991.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('18.11.2013', 'dd.mm.yyyy'), 743457.0999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('19.11.2013', 'dd.mm.yyyy'), 879998.1999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('27.11.2013', 'dd.mm.yyyy'), 871666.3999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('28.11.2013', 'dd.mm.yyyy'), 1049441.6999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('29.11.2013', 'dd.mm.yyyy'), 1318812.0999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('30.11.2013', 'dd.mm.yyyy'), 1638747.7000000014);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('06.12.2013', 'dd.mm.yyyy'), 1493790.9000000013);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('13.12.2013', 'dd.mm.yyyy'), 1368113.6000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('15.12.2013', 'dd.mm.yyyy'), 1069011.199999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('16.12.2013', 'dd.mm.yyyy'), 955660.3999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('23.12.2013', 'dd.mm.yyyy'), 1041910.8999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('07.01.2014', 'dd.mm.yyyy'), 1077946.5999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('15.01.2014', 'dd.mm.yyyy'), 885707.5999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('17.01.2014', 'dd.mm.yyyy'), 1060123.2999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('20.01.2014', 'dd.mm.yyyy'), 748476.0999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('23.01.2014', 'dd.mm.yyyy'), 829727.5999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('24.01.2014', 'dd.mm.yyyy'), 1320606.9999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('26.01.2014', 'dd.mm.yyyy'), 1090209.299999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('04.02.2014', 'dd.mm.yyyy'), 900099.6999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('08.02.2014', 'dd.mm.yyyy'), 1358779);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('09.02.2014', 'dd.mm.yyyy'), 962294.8999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('11.02.2014', 'dd.mm.yyyy'), 913877.3000000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('15.02.2014', 'dd.mm.yyyy'), 1399649.0999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('18.02.2014', 'dd.mm.yyyy'), 983030.1);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('20.02.2014', 'dd.mm.yyyy'), 1457087.399999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('22.02.2014', 'dd.mm.yyyy'), 1669180.2);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('24.02.2014', 'dd.mm.yyyy'), 761375.3999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('02.03.2014', 'dd.mm.yyyy'), 895357.4999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('04.03.2014', 'dd.mm.yyyy'), 970561.0999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('05.03.2014', 'dd.mm.yyyy'), 971534.499999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('06.03.2014', 'dd.mm.yyyy'), 1811050.0000000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('07.03.2014', 'dd.mm.yyyy'), 2577539.1000000015);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('08.03.2014', 'dd.mm.yyyy'), 2267225.700000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('15.03.2014', 'dd.mm.yyyy'), 1479908.6);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('16.03.2014', 'dd.mm.yyyy'), 1026877.3999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('20.03.2014', 'dd.mm.yyyy'), 1144980.4999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('21.03.2014', 'dd.mm.yyyy'), 1197162.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('06.04.2014', 'dd.mm.yyyy'), 1123343.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('20.04.2014', 'dd.mm.yyyy'), 1182702.2);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('26.04.2014', 'dd.mm.yyyy'), 1393722.1000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('29.04.2014', 'dd.mm.yyyy'), 1063479.0999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('03.05.2014', 'dd.mm.yyyy'), 1135254.8);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('07.05.2014', 'dd.mm.yyyy'), 870361.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('11.05.2014', 'dd.mm.yyyy'), 1110249.1999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('20.05.2014', 'dd.mm.yyyy'), 944355.0999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('24.05.2014', 'dd.mm.yyyy'), 1498286.7000000011);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('30.05.2014', 'dd.mm.yyyy'), 1364480.400000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('04.06.2014', 'dd.mm.yyyy'), 825144.0999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('06.06.2014', 'dd.mm.yyyy'), 1291265);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('08.06.2014', 'dd.mm.yyyy'), 1200784.7999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('09.06.2014', 'dd.mm.yyyy'), 834024.9999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('20.06.2014', 'dd.mm.yyyy'), 1486069.9000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('21.06.2014', 'dd.mm.yyyy'), 1547402.8000000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('23.06.2014', 'dd.mm.yyyy'), 985405.3999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('25.06.2014', 'dd.mm.yyyy'), 895444.9999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('10.07.2014', 'dd.mm.yyyy'), 1208440.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('11.07.2014', 'dd.mm.yyyy'), 1570884.2);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('18.07.2014', 'dd.mm.yyyy'), 1496652.1000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('19.07.2014', 'dd.mm.yyyy'), 1389181.399999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('20.07.2014', 'dd.mm.yyyy'), 964697.1999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('24.07.2014', 'dd.mm.yyyy'), 1196535.9);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('29.07.2014', 'dd.mm.yyyy'), 1037902.8999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('30.07.2014', 'dd.mm.yyyy'), 854966.9);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('01.08.2014', 'dd.mm.yyyy'), 1007313.6999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('06.08.2014', 'dd.mm.yyyy'), 836419.5999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('07.08.2014', 'dd.mm.yyyy'), 1006467.8999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('12.08.2014', 'dd.mm.yyyy'), 964855.4999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('17.08.2014', 'dd.mm.yyyy'), 886678.899999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('22.08.2014', 'dd.mm.yyyy'), 1063847.399999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('25.08.2014', 'dd.mm.yyyy'), 839989.0999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('27.08.2014', 'dd.mm.yyyy'), 743833.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('29.08.2014', 'dd.mm.yyyy'), 1212388);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('04.09.2014', 'dd.mm.yyyy'), 788497.2999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('06.09.2014', 'dd.mm.yyyy'), 1295443.1000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('07.09.2014', 'dd.mm.yyyy'), 830610.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('08.09.2014', 'dd.mm.yyyy'), 808210.5999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('17.09.2014', 'dd.mm.yyyy'), 766257.2999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('19.09.2014', 'dd.mm.yyyy'), 1136762.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('09.10.2014', 'dd.mm.yyyy'), 954195.6999999981);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('11.10.2014', 'dd.mm.yyyy'), 1365811.8000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('12.10.2014', 'dd.mm.yyyy'), 914420.7999999977);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('14.10.2014', 'dd.mm.yyyy'), 782492.8999999979);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('16.10.2014', 'dd.mm.yyyy'), 1084642.1999999979);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('26.10.2014', 'dd.mm.yyyy'), 998499.6999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('27.10.2014', 'dd.mm.yyyy'), 742634.7999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('30.10.2014', 'dd.mm.yyyy'), 1139213.6999999979);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('03.11.2014', 'dd.mm.yyyy'), 934275.6999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('06.11.2014', 'dd.mm.yyyy'), 1110790.7999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('10.11.2014', 'dd.mm.yyyy'), 835330.7999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('16.11.2014', 'dd.mm.yyyy'), 1085617.7999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('18.11.2014', 'dd.mm.yyyy'), 879774.4999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('19.11.2014', 'dd.mm.yyyy'), 733924.8999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('20.11.2014', 'dd.mm.yyyy'), 1152241.4999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('28.11.2014', 'dd.mm.yyyy'), 1291765.2000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('29.11.2014', 'dd.mm.yyyy'), 1403097.6000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('01.12.2014', 'dd.mm.yyyy'), 873456.1999999981);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('02.12.2014', 'dd.mm.yyyy'), 941398.5999999976);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('04.12.2014', 'dd.mm.yyyy'), 1132662.1999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('09.12.2014', 'dd.mm.yyyy'), 987166.0999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('16.12.2014', 'dd.mm.yyyy'), 1089001.099999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('18.12.2014', 'dd.mm.yyyy'), 1340839.2000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('19.12.2014', 'dd.mm.yyyy'), 1574406.3000000028);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('22.12.2014', 'dd.mm.yyyy'), 1044288.0999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('23.12.2014', 'dd.mm.yyyy'), 1169007.4999999981);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('26.12.2014', 'dd.mm.yyyy'), 2127183.400000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('30.12.2014', 'dd.mm.yyyy'), 2893172.600000012);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('03.01.2015', 'dd.mm.yyyy'), 889560.7999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('10.01.2015', 'dd.mm.yyyy'), 932365.0999999981);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('11.01.2015', 'dd.mm.yyyy'), 779404.2999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('20.01.2015', 'dd.mm.yyyy'), 915666.0999999981);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('21.01.2015', 'dd.mm.yyyy'), 872314.9999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('25.01.2015', 'dd.mm.yyyy'), 1183812.8000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('29.01.2015', 'dd.mm.yyyy'), 951341.8999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('01.02.2015', 'dd.mm.yyyy'), 851287.3999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('06.02.2015', 'dd.mm.yyyy'), 1164649.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('13.02.2015', 'dd.mm.yyyy'), 1289720.1000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('19.02.2015', 'dd.mm.yyyy'), 1108575.7999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('22.02.2015', 'dd.mm.yyyy'), 1230821.8999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('01.03.2015', 'dd.mm.yyyy'), 861688.7999999978);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('05.03.2015', 'dd.mm.yyyy'), 1598455.8000000021);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('07.03.2015', 'dd.mm.yyyy'), 1903846.3000000035);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('09.03.2015', 'dd.mm.yyyy'), 832509.2999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('10.03.2015', 'dd.mm.yyyy'), 717915.399999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('11.03.2015', 'dd.mm.yyyy'), 976151.4999999974);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('16.03.2015', 'dd.mm.yyyy'), 800169.099999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('27.03.2015', 'dd.mm.yyyy'), 1087523.1999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('28.03.2015', 'dd.mm.yyyy'), 1187074.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('29.03.2015', 'dd.mm.yyyy'), 866627.7999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('04.04.2015', 'dd.mm.yyyy'), 1246879.0000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('12.04.2015', 'dd.mm.yyyy'), 981412.6999999981);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('13.04.2015', 'dd.mm.yyyy'), 806350.7999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('14.04.2015', 'dd.mm.yyyy'), 827104.4999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('16.04.2015', 'dd.mm.yyyy'), 861503.8999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('17.04.2015', 'dd.mm.yyyy'), 1063744.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('26.04.2015', 'dd.mm.yyyy'), 1008672.0999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('28.04.2015', 'dd.mm.yyyy'), 823433.2999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('30.04.2015', 'dd.mm.yyyy'), 1061961.0999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('01.05.2015', 'dd.mm.yyyy'), 1456848.2000000014);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('02.05.2015', 'dd.mm.yyyy'), 905054.4999999981);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('04.05.2015', 'dd.mm.yyyy'), 836838.5999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('05.05.2015', 'dd.mm.yyyy'), 773971.499999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('07.05.2015', 'dd.mm.yyyy'), 917216.0999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('10.05.2015', 'dd.mm.yyyy'), 993617.499999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('11.05.2015', 'dd.mm.yyyy'), 785367.7999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('13.05.2015', 'dd.mm.yyyy'), 777061.9999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('16.05.2015', 'dd.mm.yyyy'), 1070230.899999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('25.05.2015', 'dd.mm.yyyy'), 758231.9999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('31.05.2015', 'dd.mm.yyyy'), 1060785.899999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('01.06.2015', 'dd.mm.yyyy'), 860007.6999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('02.06.2015', 'dd.mm.yyyy'), 859787.3999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('04.06.2015', 'dd.mm.yyyy'), 944445.199999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('05.06.2015', 'dd.mm.yyyy'), 1205896.8999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('11.06.2015', 'dd.mm.yyyy'), 1314271.8000000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('29.06.2015', 'dd.mm.yyyy'), 965440.4999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('30.06.2015', 'dd.mm.yyyy'), 1062141.1999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('03.07.2015', 'dd.mm.yyyy'), 1471628.6000000015);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('04.07.2015', 'dd.mm.yyyy'), 1150052.7);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('13.07.2015', 'dd.mm.yyyy'), 853999.5999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('15.07.2015', 'dd.mm.yyyy'), 963138.2999999981);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('16.07.2015', 'dd.mm.yyyy'), 1345000.599999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('30.07.2015', 'dd.mm.yyyy'), 914855.0999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('02.08.2015', 'dd.mm.yyyy'), 896156.9999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('03.08.2015', 'dd.mm.yyyy'), 827471.3999999979);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('06.08.2015', 'dd.mm.yyyy'), 1076658.0000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('09.08.2015', 'dd.mm.yyyy'), 991484.4999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('15.08.2015', 'dd.mm.yyyy'), 866254.6999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('20.08.2015', 'dd.mm.yyyy'), 958492.8999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('21.08.2015', 'dd.mm.yyyy'), 982113.2999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('24.08.2015', 'dd.mm.yyyy'), 732182.9999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('30.08.2015', 'dd.mm.yyyy'), 735555.2999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('01.09.2015', 'dd.mm.yyyy'), 871538.6999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('04.09.2015', 'dd.mm.yyyy'), 999190.9999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('06.09.2015', 'dd.mm.yyyy'), 1004507.9999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('10.09.2015', 'dd.mm.yyyy'), 908067.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('12.09.2015', 'dd.mm.yyyy'), 1036684.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('13.09.2015', 'dd.mm.yyyy'), 873608.0999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('15.09.2015', 'dd.mm.yyyy'), 817040.2999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('16.09.2015', 'dd.mm.yyyy'), 656224.7999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('23.09.2015', 'dd.mm.yyyy'), 676932.2999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('25.09.2015', 'dd.mm.yyyy'), 940240.0999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('30.09.2015', 'dd.mm.yyyy'), 781328.8999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('02.10.2015', 'dd.mm.yyyy'), 1025568.1999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('03.10.2015', 'dd.mm.yyyy'), 925423.6999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('08.10.2015', 'dd.mm.yyyy'), 913089.7999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('09.10.2015', 'dd.mm.yyyy'), 934168.3999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('15.10.2015', 'dd.mm.yyyy'), 986008.0999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('16.10.2015', 'dd.mm.yyyy'), 949263.0999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('01.11.2015', 'dd.mm.yyyy'), 1061988.2999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('06.11.2015', 'dd.mm.yyyy'), 1261166.0999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('16.11.2015', 'dd.mm.yyyy'), 735904.6999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('19.11.2015', 'dd.mm.yyyy'), 968920.6999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('20.11.2015', 'dd.mm.yyyy'), 1000069.0999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('23.11.2015', 'dd.mm.yyyy'), 776428.1999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('26.11.2015', 'dd.mm.yyyy'), 1098727.5999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('28.11.2015', 'dd.mm.yyyy'), 1227195.2999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('29.11.2015', 'dd.mm.yyyy'), 999275.4999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('01.12.2015', 'dd.mm.yyyy'), 821786.1999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('03.12.2015', 'dd.mm.yyyy'), 926014.4999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('05.12.2015', 'dd.mm.yyyy'), 1003412.0999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('08.12.2015', 'dd.mm.yyyy'), 795748.2999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('09.12.2015', 'dd.mm.yyyy'), 740252.8999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('14.12.2015', 'dd.mm.yyyy'), 812665.1999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('17.12.2015', 'dd.mm.yyyy'), 1213328.9);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('19.12.2015', 'dd.mm.yyyy'), 1252705.399999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 143', to_date('28.12.2015', 'dd.mm.yyyy'), 1341614.8000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('01.01.2013', 'dd.mm.yyyy'), 416537.59999999945);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('03.01.2013', 'dd.mm.yyyy'), 970797.9999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('04.01.2013', 'dd.mm.yyyy'), 831710.5999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('10.01.2013', 'dd.mm.yyyy'), 739256.5999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('12.01.2013', 'dd.mm.yyyy'), 1228264.0000000023);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('13.01.2013', 'dd.mm.yyyy'), 853557.7999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('19.01.2013', 'dd.mm.yyyy'), 774976.7999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('21.01.2013', 'dd.mm.yyyy'), 889400.7999999977);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('25.01.2013', 'dd.mm.yyyy'), 473227.0999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('01.02.2013', 'dd.mm.yyyy'), 482610.19999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('02.02.2013', 'dd.mm.yyyy'), 517961.1999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('04.02.2013', 'dd.mm.yyyy'), 427846.69999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('07.02.2013', 'dd.mm.yyyy'), 302395.6999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('12.02.2013', 'dd.mm.yyyy'), 318482.09999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('13.02.2013', 'dd.mm.yyyy'), 463466.5999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('15.02.2013', 'dd.mm.yyyy'), 526305.6999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('18.02.2013', 'dd.mm.yyyy'), 435183.0999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('25.02.2013', 'dd.mm.yyyy'), 190424.79999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('27.02.2013', 'dd.mm.yyyy'), 371326.30000000016);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('05.03.2013', 'dd.mm.yyyy'), 416159.8999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('08.03.2013', 'dd.mm.yyyy'), 1040010.5999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('10.03.2013', 'dd.mm.yyyy'), 461532.09999999945);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('11.03.2013', 'dd.mm.yyyy'), 364696.09999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('20.03.2013', 'dd.mm.yyyy'), 378710.5999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('23.03.2013', 'dd.mm.yyyy'), 635178.3999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('24.03.2013', 'dd.mm.yyyy'), 583275.8999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('26.03.2013', 'dd.mm.yyyy'), 347240.80000000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('30.03.2013', 'dd.mm.yyyy'), 639384.999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('06.04.2013', 'dd.mm.yyyy'), 709934.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('07.04.2013', 'dd.mm.yyyy'), 605613.4999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('19.04.2013', 'dd.mm.yyyy'), 543107.8999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('26.04.2013', 'dd.mm.yyyy'), 635096.4999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('29.04.2013', 'dd.mm.yyyy'), 392394.2999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('30.04.2013', 'dd.mm.yyyy'), 647730.2999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('01.05.2013', 'dd.mm.yyyy'), 424518.19999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('03.05.2013', 'dd.mm.yyyy'), 561083.8999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('04.05.2013', 'dd.mm.yyyy'), 725714.9000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('13.05.2013', 'dd.mm.yyyy'), 465508.7999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('14.05.2013', 'dd.mm.yyyy'), 507618.19999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('24.05.2013', 'dd.mm.yyyy'), 619735.4000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('25.05.2013', 'dd.mm.yyyy'), 639337.3999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('05.06.2013', 'dd.mm.yyyy'), 420733.89999999973);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('11.06.2013', 'dd.mm.yyyy'), 490078.09999999945);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('18.06.2013', 'dd.mm.yyyy'), 502204.1999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('21.06.2013', 'dd.mm.yyyy'), 488220.19999999955);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('23.06.2013', 'dd.mm.yyyy'), 525963.1999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('25.06.2013', 'dd.mm.yyyy'), 504002.80000000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('28.06.2013', 'dd.mm.yyyy'), 545431.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('02.07.2013', 'dd.mm.yyyy'), 525113.2999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('06.07.2013', 'dd.mm.yyyy'), 471068.5000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('09.07.2013', 'dd.mm.yyyy'), 489146.1999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('10.07.2013', 'dd.mm.yyyy'), 444347.60000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('13.07.2013', 'dd.mm.yyyy'), 768071.5999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('21.07.2013', 'dd.mm.yyyy'), 552907.6999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('24.07.2013', 'dd.mm.yyyy'), 430345.89999999973);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('27.07.2013', 'dd.mm.yyyy'), 683963.9999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('30.07.2013', 'dd.mm.yyyy'), 496655.39999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('31.07.2013', 'dd.mm.yyyy'), 503184.49999999977);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('01.08.2013', 'dd.mm.yyyy'), 478964.0999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('02.08.2013', 'dd.mm.yyyy'), 659675.8999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('04.08.2013', 'dd.mm.yyyy'), 508316.59999999957);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('06.08.2013', 'dd.mm.yyyy'), 396174.89999999973);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('07.08.2013', 'dd.mm.yyyy'), 539006.2999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('09.08.2013', 'dd.mm.yyyy'), 646670.3999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('11.08.2013', 'dd.mm.yyyy'), 430278.6999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('17.08.2013', 'dd.mm.yyyy'), 715397.3999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('18.08.2013', 'dd.mm.yyyy'), 555008.7);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('19.08.2013', 'dd.mm.yyyy'), 478571.3999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('20.08.2013', 'dd.mm.yyyy'), 460808.39999999973);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('22.08.2013', 'dd.mm.yyyy'), 531901.6999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('31.08.2013', 'dd.mm.yyyy'), 830505.7999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('02.09.2013', 'dd.mm.yyyy'), 579385.6999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('03.09.2013', 'dd.mm.yyyy'), 494402.2999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('05.09.2013', 'dd.mm.yyyy'), 482346.70000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('08.09.2013', 'dd.mm.yyyy'), 586514.3999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('11.09.2013', 'dd.mm.yyyy'), 509766.0999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('12.09.2013', 'dd.mm.yyyy'), 519053.80000000016);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('13.09.2013', 'dd.mm.yyyy'), 724811.7999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('15.09.2013', 'dd.mm.yyyy'), 596104);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('18.09.2013', 'dd.mm.yyyy'), 513899.99999999953);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('25.09.2013', 'dd.mm.yyyy'), 521090.3999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('26.09.2013', 'dd.mm.yyyy'), 528212.7999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('30.09.2013', 'dd.mm.yyyy'), 509076.29999999964);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('04.10.2013', 'dd.mm.yyyy'), 672309.9999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('09.10.2013', 'dd.mm.yyyy'), 525218.9);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('10.10.2013', 'dd.mm.yyyy'), 551338.0999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('12.10.2013', 'dd.mm.yyyy'), 828756.2999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('18.10.2013', 'dd.mm.yyyy'), 757742.7999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('27.10.2013', 'dd.mm.yyyy'), 691873.6999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('29.10.2013', 'dd.mm.yyyy'), 537276.3);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('31.10.2013', 'dd.mm.yyyy'), 567049.8999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('03.11.2013', 'dd.mm.yyyy'), 744926.4999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('09.11.2013', 'dd.mm.yyyy'), 869322.9999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('11.11.2013', 'dd.mm.yyyy'), 519075.5999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('14.11.2013', 'dd.mm.yyyy'), 600349.7999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('15.11.2013', 'dd.mm.yyyy'), 815098.7999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('16.11.2013', 'dd.mm.yyyy'), 900496.7999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('28.11.2013', 'dd.mm.yyyy'), 699838.7999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('30.11.2013', 'dd.mm.yyyy'), 1044099.8999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('01.12.2013', 'dd.mm.yyyy'), 576226.3999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('02.12.2013', 'dd.mm.yyyy'), 804084.2999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('05.12.2013', 'dd.mm.yyyy'), 593928.2999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('08.12.2013', 'dd.mm.yyyy'), 793099.4999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('10.12.2013', 'dd.mm.yyyy'), 691872.7999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('19.12.2013', 'dd.mm.yyyy'), 824697.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('23.12.2013', 'dd.mm.yyyy'), 778464.4999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('25.12.2013', 'dd.mm.yyyy'), 821723.0999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('31.12.2013', 'dd.mm.yyyy'), 2715698.300000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('02.01.2014', 'dd.mm.yyyy'), 591156.1999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('06.01.2014', 'dd.mm.yyyy'), 833502.299999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('07.01.2014', 'dd.mm.yyyy'), 700615.5999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('08.01.2014', 'dd.mm.yyyy'), 596750.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('10.01.2014', 'dd.mm.yyyy'), 663537.9999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('15.01.2014', 'dd.mm.yyyy'), 619004.8999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('05.02.2014', 'dd.mm.yyyy'), 621235.4999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('06.02.2014', 'dd.mm.yyyy'), 678158.2);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('07.02.2014', 'dd.mm.yyyy'), 702128.5999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('08.02.2014', 'dd.mm.yyyy'), 950567.7999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('16.02.2014', 'dd.mm.yyyy'), 742928.4999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('17.02.2014', 'dd.mm.yyyy'), 629357.8999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('19.02.2014', 'dd.mm.yyyy'), 603639.5999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('25.02.2014', 'dd.mm.yyyy'), 612929.0999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('26.02.2014', 'dd.mm.yyyy'), 636909.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('01.03.2014', 'dd.mm.yyyy'), 936511.0999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('13.03.2014', 'dd.mm.yyyy'), 632063.1999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('17.03.2014', 'dd.mm.yyyy'), 574586.5999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('21.03.2014', 'dd.mm.yyyy'), 831438.7999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('22.03.2014', 'dd.mm.yyyy'), 963118.4999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('23.03.2014', 'dd.mm.yyyy'), 720013.2999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('01.04.2014', 'dd.mm.yyyy'), 562413.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('02.04.2014', 'dd.mm.yyyy'), 557756.4999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('03.04.2014', 'dd.mm.yyyy'), 716951.999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('06.04.2014', 'dd.mm.yyyy'), 711194.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('14.04.2014', 'dd.mm.yyyy'), 572067.0999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('15.04.2014', 'dd.mm.yyyy'), 619642.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('20.04.2014', 'dd.mm.yyyy'), 630856.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('23.04.2014', 'dd.mm.yyyy'), 628901.3999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('25.04.2014', 'dd.mm.yyyy'), 801766.8999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('02.05.2014', 'dd.mm.yyyy'), 749667.4999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('07.05.2014', 'dd.mm.yyyy'), 648444.1999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('11.05.2014', 'dd.mm.yyyy'), 700539.1999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('17.05.2014', 'dd.mm.yyyy'), 840788.2999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('19.05.2014', 'dd.mm.yyyy'), 562609.8999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('25.05.2014', 'dd.mm.yyyy'), 727807.3999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('08.06.2014', 'dd.mm.yyyy'), 747145.1999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('09.06.2014', 'dd.mm.yyyy'), 579144.8999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('10.06.2014', 'dd.mm.yyyy'), 680719.3999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('11.06.2014', 'dd.mm.yyyy'), 720103.4999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('17.06.2014', 'dd.mm.yyyy'), 621769.5999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('08.07.2014', 'dd.mm.yyyy'), 605350.8999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('09.07.2014', 'dd.mm.yyyy'), 602419.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('11.07.2014', 'dd.mm.yyyy'), 865712.0999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('13.07.2014', 'dd.mm.yyyy'), 615184.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('14.07.2014', 'dd.mm.yyyy'), 682941.6999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('15.07.2014', 'dd.mm.yyyy'), 623357.0999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('25.07.2014', 'dd.mm.yyyy'), 779323.599999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('29.07.2014', 'dd.mm.yyyy'), 501137.79999999946);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('31.07.2014', 'dd.mm.yyyy'), 655598.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('02.08.2014', 'dd.mm.yyyy'), 764390.6999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('03.08.2014', 'dd.mm.yyyy'), 598333.0999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('05.08.2014', 'dd.mm.yyyy'), 607516.1999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('08.08.2014', 'dd.mm.yyyy'), 826397.9999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('09.08.2014', 'dd.mm.yyyy'), 743967.3999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('11.08.2014', 'dd.mm.yyyy'), 597204.2999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('20.08.2014', 'dd.mm.yyyy'), 634452.899999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('02.09.2014', 'dd.mm.yyyy'), 688975.9999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('09.09.2014', 'dd.mm.yyyy'), 580017.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('14.09.2014', 'dd.mm.yyyy'), 693939.1999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('16.09.2014', 'dd.mm.yyyy'), 605060.2999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('21.09.2014', 'dd.mm.yyyy'), 750080.4999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('23.09.2014', 'dd.mm.yyyy'), 677124.4999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('24.09.2014', 'dd.mm.yyyy'), 623338.5999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('25.09.2014', 'dd.mm.yyyy'), 672340.8999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('28.09.2014', 'dd.mm.yyyy'), 614250.8999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('30.09.2014', 'dd.mm.yyyy'), 566437.399999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('02.10.2014', 'dd.mm.yyyy'), 600864.5999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('07.10.2014', 'dd.mm.yyyy'), 576120.3999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('08.10.2014', 'dd.mm.yyyy'), 639123.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('09.10.2014', 'dd.mm.yyyy'), 670130.9999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('12.10.2014', 'dd.mm.yyyy'), 727521.0999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('15.10.2014', 'dd.mm.yyyy'), 593069.9999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('19.10.2014', 'dd.mm.yyyy'), 752400.8999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('20.10.2014', 'dd.mm.yyyy'), 592537.199999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('21.10.2014', 'dd.mm.yyyy'), 587749.9999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('24.10.2014', 'dd.mm.yyyy'), 893469.8999999977);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('26.10.2014', 'dd.mm.yyyy'), 831823.1999999981);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('27.10.2014', 'dd.mm.yyyy'), 622795.3999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('29.10.2014', 'dd.mm.yyyy'), 792563.4999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('30.10.2014', 'dd.mm.yyyy'), 768139.2999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('02.11.2014', 'dd.mm.yyyy'), 447850.69999999966);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('03.11.2014', 'dd.mm.yyyy'), 1084222.9999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('06.11.2014', 'dd.mm.yyyy'), 707633.4999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('19.11.2014', 'dd.mm.yyyy'), 685817.9999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('21.11.2014', 'dd.mm.yyyy'), 908414.2999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('25.11.2014', 'dd.mm.yyyy'), 315593.59999999974);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('27.11.2014', 'dd.mm.yyyy'), 799112.3999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('28.11.2014', 'dd.mm.yyyy'), 975566.6999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('02.12.2014', 'dd.mm.yyyy'), 892974.2999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('10.12.2014', 'dd.mm.yyyy'), 830436.8999999979);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('15.12.2014', 'dd.mm.yyyy'), 721543.9999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('17.12.2014', 'dd.mm.yyyy'), 795137.3999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('18.12.2014', 'dd.mm.yyyy'), 932103.0999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('21.12.2014', 'dd.mm.yyyy'), 1137127.8999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('23.12.2014', 'dd.mm.yyyy'), 865512.2999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('25.12.2014', 'dd.mm.yyyy'), 1232979.2999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('26.12.2014', 'dd.mm.yyyy'), 1167012.4999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('04.01.2015', 'dd.mm.yyyy'), 652387.0999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('06.01.2015', 'dd.mm.yyyy'), 1003732.6999999979);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('12.01.2015', 'dd.mm.yyyy'), 483272.799999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('13.01.2015', 'dd.mm.yyyy'), 919042.2999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('21.01.2015', 'dd.mm.yyyy'), 726848.6999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('24.01.2015', 'dd.mm.yyyy'), 969648.4999999981);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('27.01.2015', 'dd.mm.yyyy'), 686517.9999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('30.01.2015', 'dd.mm.yyyy'), 830805.8999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('01.02.2015', 'dd.mm.yyyy'), 711281.2999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('03.02.2015', 'dd.mm.yyyy'), 583951.5999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('07.02.2015', 'dd.mm.yyyy'), 866038.0999999974);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('09.02.2015', 'dd.mm.yyyy'), 623938.1999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('10.02.2015', 'dd.mm.yyyy'), 634794.3999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('11.02.2015', 'dd.mm.yyyy'), 635684.5999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('12.02.2015', 'dd.mm.yyyy'), 777371.999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('22.02.2015', 'dd.mm.yyyy'), 962963.6999999981);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('27.02.2015', 'dd.mm.yyyy'), 780139.8999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('06.03.2015', 'dd.mm.yyyy'), 1098370.4999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('07.03.2015', 'dd.mm.yyyy'), 1352956.6000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('11.03.2015', 'dd.mm.yyyy'), 649294.1999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('14.03.2015', 'dd.mm.yyyy'), 853439.4999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('15.03.2015', 'dd.mm.yyyy'), 574137.5999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('20.03.2015', 'dd.mm.yyyy'), 858244.2999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('21.03.2015', 'dd.mm.yyyy'), 859417.2999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('25.03.2015', 'dd.mm.yyyy'), 512663.99999999884);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('29.03.2015', 'dd.mm.yyyy'), 758602.8999999976);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('09.04.2015', 'dd.mm.yyyy'), 735516.5999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('11.04.2015', 'dd.mm.yyyy'), 1283256.2);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('17.04.2015', 'dd.mm.yyyy'), 778773.4999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('24.04.2015', 'dd.mm.yyyy'), 679185.2999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('03.05.2015', 'dd.mm.yyyy'), 806632.6999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('05.05.2015', 'dd.mm.yyyy'), 544929.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('08.05.2015', 'dd.mm.yyyy'), 842001.4999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('10.05.2015', 'dd.mm.yyyy'), 700704.9999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('11.05.2015', 'dd.mm.yyyy'), 747121.0999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('13.05.2015', 'dd.mm.yyyy'), 592870.9999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('15.05.2015', 'dd.mm.yyyy'), 754325.9999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('16.05.2015', 'dd.mm.yyyy'), 771647.2999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('18.05.2015', 'dd.mm.yyyy'), 607389.1999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('20.05.2015', 'dd.mm.yyyy'), 605151.2999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('21.05.2015', 'dd.mm.yyyy'), 662111.1999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('24.05.2015', 'dd.mm.yyyy'), 723042.599999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('27.05.2015', 'dd.mm.yyyy'), 627378.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('31.05.2015', 'dd.mm.yyyy'), 725107.2999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('04.06.2015', 'dd.mm.yyyy'), 663671.8999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('12.06.2015', 'dd.mm.yyyy'), 767705.8999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('17.06.2015', 'dd.mm.yyyy'), 598685.0999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('18.06.2015', 'dd.mm.yyyy'), 737229.4999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('21.06.2015', 'dd.mm.yyyy'), 851243.6999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('24.06.2015', 'dd.mm.yyyy'), 588055.5999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('26.06.2015', 'dd.mm.yyyy'), 894520.3999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('27.06.2015', 'dd.mm.yyyy'), 658798.8999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('28.06.2015', 'dd.mm.yyyy'), 653383.5999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('09.07.2015', 'dd.mm.yyyy'), 721919.5999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('12.07.2015', 'dd.mm.yyyy'), 635151.4999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('16.07.2015', 'dd.mm.yyyy'), 927065.0999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('20.07.2015', 'dd.mm.yyyy'), 682507.2999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('27.07.2015', 'dd.mm.yyyy'), 567538.8999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('28.07.2015', 'dd.mm.yyyy'), 593780.9999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('31.07.2015', 'dd.mm.yyyy'), 755614.5999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('03.08.2015', 'dd.mm.yyyy'), 582698.9999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('04.08.2015', 'dd.mm.yyyy'), 542454.6999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('13.08.2015', 'dd.mm.yyyy'), 794561.0999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('20.08.2015', 'dd.mm.yyyy'), 741527.3999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('02.09.2015', 'dd.mm.yyyy'), 490545.59999999945);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('05.09.2015', 'dd.mm.yyyy'), 690793.8999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('11.09.2015', 'dd.mm.yyyy'), 733913.7999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('13.09.2015', 'dd.mm.yyyy'), 702986.399999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('19.09.2015', 'dd.mm.yyyy'), 751683.6999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('28.09.2015', 'dd.mm.yyyy'), 576851.199999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('02.10.2015', 'dd.mm.yyyy'), 582958.4999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('04.10.2015', 'dd.mm.yyyy'), 626196.9999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('05.10.2015', 'dd.mm.yyyy'), 573688.4999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('06.10.2015', 'dd.mm.yyyy'), 494400.0999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('09.10.2015', 'dd.mm.yyyy'), 731507.9999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('13.10.2015', 'dd.mm.yyyy'), 626106.9999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('16.10.2015', 'dd.mm.yyyy'), 748735.9999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('22.10.2015', 'dd.mm.yyyy'), 712241.5999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('23.10.2015', 'dd.mm.yyyy'), 668727.4999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('24.10.2015', 'dd.mm.yyyy'), 958102.0999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('30.10.2015', 'dd.mm.yyyy'), 730901.5999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('06.11.2015', 'dd.mm.yyyy'), 802815.1999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('08.11.2015', 'dd.mm.yyyy'), 668492.199999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('14.11.2015', 'dd.mm.yyyy'), 841151.5999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('19.11.2015', 'dd.mm.yyyy'), 696275.8999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('20.11.2015', 'dd.mm.yyyy'), 747988.9999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('21.11.2015', 'dd.mm.yyyy'), 806824.8999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('22.11.2015', 'dd.mm.yyyy'), 716917.0999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('23.11.2015', 'dd.mm.yyyy'), 607428.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('27.11.2015', 'dd.mm.yyyy'), 820618.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('04.12.2015', 'dd.mm.yyyy'), 767732.7999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('11.12.2015', 'dd.mm.yyyy'), 888967.0999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('12.12.2015', 'dd.mm.yyyy'), 961537.2999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('13.12.2015', 'dd.mm.yyyy'), 853572.4999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('14.12.2015', 'dd.mm.yyyy'), 653379.6999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('15.12.2015', 'dd.mm.yyyy'), 655127.0999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('21.12.2015', 'dd.mm.yyyy'), 663161.599999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('24.12.2015', 'dd.mm.yyyy'), 1174311.0000000012);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('25.12.2015', 'dd.mm.yyyy'), 1172361.0000000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('26.12.2015', 'dd.mm.yyyy'), 1016583.8999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 206', to_date('27.12.2015', 'dd.mm.yyyy'), 1063106.8999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('07.01.2013', 'dd.mm.yyyy'), 1183047.7999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('08.01.2013', 'dd.mm.yyyy'), 880536.2);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('09.01.2013', 'dd.mm.yyyy'), 868524.1999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('12.01.2013', 'dd.mm.yyyy'), 1123258.600000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('14.01.2013', 'dd.mm.yyyy'), 707894.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('21.01.2013', 'dd.mm.yyyy'), 779624.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('24.01.2013', 'dd.mm.yyyy'), 511935.8999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('03.02.2013', 'dd.mm.yyyy'), 447988.29999999964);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('04.02.2013', 'dd.mm.yyyy'), 420882.29999999976);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('06.02.2013', 'dd.mm.yyyy'), 439278.99999999965);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('10.02.2013', 'dd.mm.yyyy'), 432630.7);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('14.02.2013', 'dd.mm.yyyy'), 622962.7999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('18.02.2013', 'dd.mm.yyyy'), 444016.49999999977);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('20.02.2013', 'dd.mm.yyyy'), 466111.49999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('24.02.2013', 'dd.mm.yyyy'), 474629.69999999966);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('26.02.2013', 'dd.mm.yyyy'), 426782.40000000014);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('07.03.2013', 'dd.mm.yyyy'), 914809.0999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('10.03.2013', 'dd.mm.yyyy'), 406485.4);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('17.03.2013', 'dd.mm.yyyy'), 458819.7999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('18.03.2013', 'dd.mm.yyyy'), 409284.4999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('21.03.2013', 'dd.mm.yyyy'), 413394.29999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('25.03.2013', 'dd.mm.yyyy'), 432570.7999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('28.03.2013', 'dd.mm.yyyy'), 502024.0999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('31.03.2013', 'dd.mm.yyyy'), 506374.39999999944);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('02.04.2013', 'dd.mm.yyyy'), 449448.39999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('06.04.2013', 'dd.mm.yyyy'), 596965.4);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('08.04.2013', 'dd.mm.yyyy'), 415717.60000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('10.04.2013', 'dd.mm.yyyy'), 477897.7999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('17.04.2013', 'dd.mm.yyyy'), 544253.9999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('20.04.2013', 'dd.mm.yyyy'), 702219.9999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('23.04.2013', 'dd.mm.yyyy'), 495348.8);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('25.04.2013', 'dd.mm.yyyy'), 511636.0999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('27.04.2013', 'dd.mm.yyyy'), 639132.7999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('03.05.2013', 'dd.mm.yyyy'), 556742.2999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('07.05.2013', 'dd.mm.yyyy'), 461232.90000000014);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('09.05.2013', 'dd.mm.yyyy'), 637071.7999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('12.05.2013', 'dd.mm.yyyy'), 411548);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('15.05.2013', 'dd.mm.yyyy'), 544557.7999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('25.05.2013', 'dd.mm.yyyy'), 630460.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('28.05.2013', 'dd.mm.yyyy'), 386035.89999999973);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('29.05.2013', 'dd.mm.yyyy'), 463170.3999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('01.06.2013', 'dd.mm.yyyy'), 663240.5999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('04.06.2013', 'dd.mm.yyyy'), 428671.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('05.06.2013', 'dd.mm.yyyy'), 491242.5999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('08.06.2013', 'dd.mm.yyyy'), 668502.3999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('17.06.2013', 'dd.mm.yyyy'), 417491.6999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('19.06.2013', 'dd.mm.yyyy'), 528914.3999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('20.06.2013', 'dd.mm.yyyy'), 553074.5999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('23.06.2013', 'dd.mm.yyyy'), 489012.0999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('24.06.2013', 'dd.mm.yyyy'), 484446.09999999957);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('26.06.2013', 'dd.mm.yyyy'), 568899.0999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('27.06.2013', 'dd.mm.yyyy'), 555930.4999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('28.06.2013', 'dd.mm.yyyy'), 623493.6999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('03.07.2013', 'dd.mm.yyyy'), 511779.69999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('04.07.2013', 'dd.mm.yyyy'), 505094.9999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('14.07.2013', 'dd.mm.yyyy'), 493969.59999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('15.07.2013', 'dd.mm.yyyy'), 356295.4);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('18.07.2013', 'dd.mm.yyyy'), 575688.9999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('23.07.2013', 'dd.mm.yyyy'), 546900.0999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('31.07.2013', 'dd.mm.yyyy'), 510625.1999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('09.08.2013', 'dd.mm.yyyy'), 668013);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('10.08.2013', 'dd.mm.yyyy'), 612359.1999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('15.08.2013', 'dd.mm.yyyy'), 520846.4999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('17.08.2013', 'dd.mm.yyyy'), 537669.8999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('19.08.2013', 'dd.mm.yyyy'), 587385.0999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('24.08.2013', 'dd.mm.yyyy'), 651440.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('25.08.2013', 'dd.mm.yyyy'), 533090.0999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('26.08.2013', 'dd.mm.yyyy'), 513252.4999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('29.08.2013', 'dd.mm.yyyy'), 601819.5999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('02.09.2013', 'dd.mm.yyyy'), 480337.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('11.09.2013', 'dd.mm.yyyy'), 515366.19999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('12.09.2013', 'dd.mm.yyyy'), 535209.5999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('13.09.2013', 'dd.mm.yyyy'), 679494.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('14.09.2013', 'dd.mm.yyyy'), 594906.4999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('16.09.2013', 'dd.mm.yyyy'), 494442.59999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('19.09.2013', 'dd.mm.yyyy'), 510644.99999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('20.09.2013', 'dd.mm.yyyy'), 420302.89999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('22.09.2013', 'dd.mm.yyyy'), 459875.8999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('03.10.2013', 'dd.mm.yyyy'), 535631.2999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('04.10.2013', 'dd.mm.yyyy'), 686700.4999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('06.10.2013', 'dd.mm.yyyy'), 571196.9999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('10.10.2013', 'dd.mm.yyyy'), 514517.6999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('16.10.2013', 'dd.mm.yyyy'), 567630.6999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('21.10.2013', 'dd.mm.yyyy'), 523730.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('31.10.2013', 'dd.mm.yyyy'), 598171.7);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('04.11.2013', 'dd.mm.yyyy'), 568931.4999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('11.11.2013', 'dd.mm.yyyy'), 528417.2999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('12.11.2013', 'dd.mm.yyyy'), 611653.3999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('14.11.2013', 'dd.mm.yyyy'), 602846.9999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('15.11.2013', 'dd.mm.yyyy'), 722578.3999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('16.11.2013', 'dd.mm.yyyy'), 708882.3999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('18.11.2013', 'dd.mm.yyyy'), 547336.8999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('19.11.2013', 'dd.mm.yyyy'), 591495.2999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('21.11.2013', 'dd.mm.yyyy'), 674579.4999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('01.12.2013', 'dd.mm.yyyy'), 604711.7000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('03.12.2013', 'dd.mm.yyyy'), 590752.7999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('05.12.2013', 'dd.mm.yyyy'), 487065.99999999977);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('08.12.2013', 'dd.mm.yyyy'), 517978.99999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('10.12.2013', 'dd.mm.yyyy'), 581485.8999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('16.12.2013', 'dd.mm.yyyy'), 544868.8999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('18.12.2013', 'dd.mm.yyyy'), 637729.9999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('20.12.2013', 'dd.mm.yyyy'), 611780.6999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('26.12.2013', 'dd.mm.yyyy'), 914424.5999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('30.12.2013', 'dd.mm.yyyy'), 1101417.3000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('07.01.2014', 'dd.mm.yyyy'), 690234.6999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('09.01.2014', 'dd.mm.yyyy'), 644882.9999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('17.01.2014', 'dd.mm.yyyy'), 629584.5999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('19.01.2014', 'dd.mm.yyyy'), 625756.2999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('20.01.2014', 'dd.mm.yyyy'), 513608.99999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('21.01.2014', 'dd.mm.yyyy'), 557753.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('23.01.2014', 'dd.mm.yyyy'), 565606.0999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('30.01.2014', 'dd.mm.yyyy'), 541889.9);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('01.02.2014', 'dd.mm.yyyy'), 564756.3999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('02.02.2014', 'dd.mm.yyyy'), 634150.8999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('07.02.2014', 'dd.mm.yyyy'), 523666.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('09.02.2014', 'dd.mm.yyyy'), 538391.2999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('13.02.2014', 'dd.mm.yyyy'), 685804.0999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('14.02.2014', 'dd.mm.yyyy'), 781846.2999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('16.02.2014', 'dd.mm.yyyy'), 549472.8999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('22.02.2014', 'dd.mm.yyyy'), 743096.1999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('23.02.2014', 'dd.mm.yyyy'), 645696.0999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('25.02.2014', 'dd.mm.yyyy'), 586470.8999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('28.02.2014', 'dd.mm.yyyy'), 684101.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('03.03.2014', 'dd.mm.yyyy'), 446955.7999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('04.03.2014', 'dd.mm.yyyy'), 464011.9999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('08.03.2014', 'dd.mm.yyyy'), 897672.9999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('11.03.2014', 'dd.mm.yyyy'), 534653.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('15.03.2014', 'dd.mm.yyyy'), 530283.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('19.03.2014', 'dd.mm.yyyy'), 503893.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('21.03.2014', 'dd.mm.yyyy'), 691921.9999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('24.03.2014', 'dd.mm.yyyy'), 485224.9999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('28.03.2014', 'dd.mm.yyyy'), 726240.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('30.03.2014', 'dd.mm.yyyy'), 576633.5999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('03.04.2014', 'dd.mm.yyyy'), 619625.4999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('04.04.2014', 'dd.mm.yyyy'), 698898.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('08.04.2014', 'dd.mm.yyyy'), 612234.5999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('13.04.2014', 'dd.mm.yyyy'), 581373.4999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('20.04.2014', 'dd.mm.yyyy'), 623462.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('23.04.2014', 'dd.mm.yyyy'), 397842.6999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('26.04.2014', 'dd.mm.yyyy'), 708873.4999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('29.04.2014', 'dd.mm.yyyy'), 549598.1999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('30.04.2014', 'dd.mm.yyyy'), 675027.799999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('01.05.2014', 'dd.mm.yyyy'), 826055.4999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('05.05.2014', 'dd.mm.yyyy'), 534019.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('20.05.2014', 'dd.mm.yyyy'), 522662.89999999927);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('24.05.2014', 'dd.mm.yyyy'), 809068.1999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('28.05.2014', 'dd.mm.yyyy'), 555775.8999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('31.05.2014', 'dd.mm.yyyy'), 803964.2999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('01.06.2014', 'dd.mm.yyyy'), 618805.5999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('06.06.2014', 'dd.mm.yyyy'), 796608.2999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('08.06.2014', 'dd.mm.yyyy'), 513550.49999999936);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('12.06.2014', 'dd.mm.yyyy'), 812120.3999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('14.06.2014', 'dd.mm.yyyy'), 648602.9999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('20.06.2014', 'dd.mm.yyyy'), 659714.4999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('27.06.2014', 'dd.mm.yyyy'), 871659.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('29.06.2014', 'dd.mm.yyyy'), 795672.2999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('03.07.2014', 'dd.mm.yyyy'), 865839.3999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('05.07.2014', 'dd.mm.yyyy'), 815994.7999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('06.07.2014', 'dd.mm.yyyy'), 618557.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('08.07.2014', 'dd.mm.yyyy'), 532651.6999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('15.07.2014', 'dd.mm.yyyy'), 605696.4999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('18.07.2014', 'dd.mm.yyyy'), 800582.7999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('21.07.2014', 'dd.mm.yyyy'), 647016.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('25.07.2014', 'dd.mm.yyyy'), 705390.7);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('26.07.2014', 'dd.mm.yyyy'), 605238.3999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('27.07.2014', 'dd.mm.yyyy'), 628163.3999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('30.07.2014', 'dd.mm.yyyy'), 561835.5);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('11.08.2014', 'dd.mm.yyyy'), 539661.4999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('13.08.2014', 'dd.mm.yyyy'), 493110.89999999973);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('16.08.2014', 'dd.mm.yyyy'), 728742.6999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('17.08.2014', 'dd.mm.yyyy'), 530817.6999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('21.08.2014', 'dd.mm.yyyy'), 626086.2999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('22.08.2014', 'dd.mm.yyyy'), 670198.9999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('24.08.2014', 'dd.mm.yyyy'), 562561.2999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('25.08.2014', 'dd.mm.yyyy'), 554348.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('27.08.2014', 'dd.mm.yyyy'), 619246.2999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('28.08.2014', 'dd.mm.yyyy'), 697062.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('29.08.2014', 'dd.mm.yyyy'), 682979.8999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('01.09.2014', 'dd.mm.yyyy'), 582552.9999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('03.09.2014', 'dd.mm.yyyy'), 515933.79999999935);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('05.09.2014', 'dd.mm.yyyy'), 734304.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('07.09.2014', 'dd.mm.yyyy'), 543358.6999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('09.09.2014', 'dd.mm.yyyy'), 553455.8999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('13.09.2014', 'dd.mm.yyyy'), 692362.9999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('14.09.2014', 'dd.mm.yyyy'), 558293.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('18.09.2014', 'dd.mm.yyyy'), 610122.9999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('27.09.2014', 'dd.mm.yyyy'), 615429.8999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('29.09.2014', 'dd.mm.yyyy'), 447719.9999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('30.09.2014', 'dd.mm.yyyy'), 635804.2999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('01.10.2014', 'dd.mm.yyyy'), 530300.199999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('08.10.2014', 'dd.mm.yyyy'), 567214.6999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('12.10.2014', 'dd.mm.yyyy'), 619181.199999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('19.10.2014', 'dd.mm.yyyy'), 578710.6999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('21.10.2014', 'dd.mm.yyyy'), 575253.899999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('26.10.2014', 'dd.mm.yyyy'), 725870.2999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('11.11.2014', 'dd.mm.yyyy'), 645253.9999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('13.11.2014', 'dd.mm.yyyy'), 731293.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('14.11.2014', 'dd.mm.yyyy'), 882979.5999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('16.11.2014', 'dd.mm.yyyy'), 646872.8999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('19.11.2014', 'dd.mm.yyyy'), 612667.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('20.11.2014', 'dd.mm.yyyy'), 610421.3999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('22.11.2014', 'dd.mm.yyyy'), 733465.3999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('27.11.2014', 'dd.mm.yyyy'), 852526.9999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('02.12.2014', 'dd.mm.yyyy'), 687403.1999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('21.12.2014', 'dd.mm.yyyy'), 693314.3999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('22.12.2014', 'dd.mm.yyyy'), 617600.0999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('27.12.2014', 'dd.mm.yyyy'), 971861.2999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('07.01.2015', 'dd.mm.yyyy'), 650022.3999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('15.01.2015', 'dd.mm.yyyy'), 648907.9999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('20.01.2015', 'dd.mm.yyyy'), 577372.599999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('22.01.2015', 'dd.mm.yyyy'), 704179.999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('29.01.2015', 'dd.mm.yyyy'), 615037.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('31.01.2015', 'dd.mm.yyyy'), 648406.5999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('09.02.2015', 'dd.mm.yyyy'), 518492.6999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('13.02.2015', 'dd.mm.yyyy'), 678823.6999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('17.02.2015', 'dd.mm.yyyy'), 540910.1999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('19.02.2015', 'dd.mm.yyyy'), 777548.9999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('20.02.2015', 'dd.mm.yyyy'), 867090.9999999981);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('21.02.2015', 'dd.mm.yyyy'), 740756.6999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('26.02.2015', 'dd.mm.yyyy'), 724425.4999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('02.03.2015', 'dd.mm.yyyy'), 449009.09999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('04.03.2015', 'dd.mm.yyyy'), 534027.0999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('08.03.2015', 'dd.mm.yyyy'), 1020496.2999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('09.03.2015', 'dd.mm.yyyy'), 553304.3999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('12.03.2015', 'dd.mm.yyyy'), 646532.999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('19.03.2015', 'dd.mm.yyyy'), 708835.2999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('22.03.2015', 'dd.mm.yyyy'), 621088.1999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('25.03.2015', 'dd.mm.yyyy'), 634837.9999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('29.03.2015', 'dd.mm.yyyy'), 734554.1999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('01.04.2015', 'dd.mm.yyyy'), 529891.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('02.04.2015', 'dd.mm.yyyy'), 606998.5999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('03.04.2015', 'dd.mm.yyyy'), 552579.6999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('08.04.2015', 'dd.mm.yyyy'), 621016.799999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('15.04.2015', 'dd.mm.yyyy'), 544768.1999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('17.04.2015', 'dd.mm.yyyy'), 688299.5999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('19.04.2015', 'dd.mm.yyyy'), 860016.5999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('23.04.2015', 'dd.mm.yyyy'), 737880.2999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('24.04.2015', 'dd.mm.yyyy'), 559223.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('29.04.2015', 'dd.mm.yyyy'), 678597.6999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('03.05.2015', 'dd.mm.yyyy'), 446695.9999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('04.05.2015', 'dd.mm.yyyy'), 530984.5999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('09.05.2015', 'dd.mm.yyyy'), 1018134.3999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('12.05.2015', 'dd.mm.yyyy'), 731033.5999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('13.05.2015', 'dd.mm.yyyy'), 421587.40000000014);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('14.05.2015', 'dd.mm.yyyy'), 675365.4999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('25.05.2015', 'dd.mm.yyyy'), 424574.69999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('27.05.2015', 'dd.mm.yyyy'), 609199.1999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('29.05.2015', 'dd.mm.yyyy'), 902309.4999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('02.06.2015', 'dd.mm.yyyy'), 648753.2999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('06.06.2015', 'dd.mm.yyyy'), 676425.5999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('07.06.2015', 'dd.mm.yyyy'), 795112.0999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('08.06.2015', 'dd.mm.yyyy'), 627081.0999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('09.06.2015', 'dd.mm.yyyy'), 399977.00000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('11.06.2015', 'dd.mm.yyyy'), 577527.099999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('12.06.2015', 'dd.mm.yyyy'), 881071.0999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('15.06.2015', 'dd.mm.yyyy'), 684695.9999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('30.06.2015', 'dd.mm.yyyy'), 604618.799999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('03.07.2015', 'dd.mm.yyyy'), 663027.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('08.07.2015', 'dd.mm.yyyy'), 617198.5999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('20.07.2015', 'dd.mm.yyyy'), 635590.2999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('24.07.2015', 'dd.mm.yyyy'), 789920.8999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('28.07.2015', 'dd.mm.yyyy'), 569010.0999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('03.08.2015', 'dd.mm.yyyy'), 609436.7999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('13.08.2015', 'dd.mm.yyyy'), 755103.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('14.08.2015', 'dd.mm.yyyy'), 721885.2999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('18.08.2015', 'dd.mm.yyyy'), 442992.8999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('21.08.2015', 'dd.mm.yyyy'), 958431.5999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('28.08.2015', 'dd.mm.yyyy'), 727560.4999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('30.08.2015', 'dd.mm.yyyy'), 615503.3999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('06.09.2015', 'dd.mm.yyyy'), 613649.0999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('11.09.2015', 'dd.mm.yyyy'), 823736.4999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('18.09.2015', 'dd.mm.yyyy'), 767327.5999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('29.09.2015', 'dd.mm.yyyy'), 446738.0999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('05.10.2015', 'dd.mm.yyyy'), 535673.6999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('09.10.2015', 'dd.mm.yyyy'), 376136.0999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('13.10.2015', 'dd.mm.yyyy'), 448079.6999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('15.10.2015', 'dd.mm.yyyy'), 844756.9999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('16.10.2015', 'dd.mm.yyyy'), 445657.8999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('26.10.2015', 'dd.mm.yyyy'), 585699.3999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('27.10.2015', 'dd.mm.yyyy'), 466532.5999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('31.10.2015', 'dd.mm.yyyy'), 684950.3999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('02.11.2015', 'dd.mm.yyyy'), 556046.0999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('13.11.2015', 'dd.mm.yyyy'), 736583.7999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('15.11.2015', 'dd.mm.yyyy'), 629709.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('17.11.2015', 'dd.mm.yyyy'), 499431.79999999964);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('20.11.2015', 'dd.mm.yyyy'), 558574.0999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('21.11.2015', 'dd.mm.yyyy'), 849380.399999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('22.11.2015', 'dd.mm.yyyy'), 532214.3999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('24.11.2015', 'dd.mm.yyyy'), 457636.49999999953);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('01.12.2015', 'dd.mm.yyyy'), 567178.8999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('03.12.2015', 'dd.mm.yyyy'), 582841.8999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('04.12.2015', 'dd.mm.yyyy'), 640902.099999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('06.12.2015', 'dd.mm.yyyy'), 507588.59999999916);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('07.12.2015', 'dd.mm.yyyy'), 394194.29999999976);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('23.12.2015', 'dd.mm.yyyy'), 533106.5999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('24.12.2015', 'dd.mm.yyyy'), 816667.5999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 227', to_date('31.12.2015', 'dd.mm.yyyy'), 1707509.1000000034);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('01.01.2013', 'dd.mm.yyyy'), 2415132.2000000025);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('04.01.2013', 'dd.mm.yyyy'), 2358170.0000000084);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('05.01.2013', 'dd.mm.yyyy'), 2707713.2000000086);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('07.01.2013', 'dd.mm.yyyy'), 2689847.8000000026);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('08.01.2013', 'dd.mm.yyyy'), 2174199.6000000066);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('11.01.2013', 'dd.mm.yyyy'), 2611469.6000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('17.01.2013', 'dd.mm.yyyy'), 2258475.2000000044);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('19.01.2013', 'dd.mm.yyyy'), 3219478.1999999974);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('01.02.2013', 'dd.mm.yyyy'), 1431356.800000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('15.02.2013', 'dd.mm.yyyy'), 1629608.7000000014);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('16.02.2013', 'dd.mm.yyyy'), 1611285.600000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('19.02.2013', 'dd.mm.yyyy'), 1169688.4999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('09.03.2013', 'dd.mm.yyyy'), 1454236.600000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('17.03.2013', 'dd.mm.yyyy'), 1277796.8);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('18.03.2013', 'dd.mm.yyyy'), 1191498);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('20.03.2013', 'dd.mm.yyyy'), 1134731.8000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('21.03.2013', 'dd.mm.yyyy'), 1235827.400000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('26.03.2013', 'dd.mm.yyyy'), 1216417.0000000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('01.04.2013', 'dd.mm.yyyy'), 934970.3999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('03.04.2013', 'dd.mm.yyyy'), 1157986.9999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('10.04.2013', 'dd.mm.yyyy'), 1236528.4000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('13.04.2013', 'dd.mm.yyyy'), 1648714.9999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('17.04.2013', 'dd.mm.yyyy'), 1122122.0999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('20.04.2013', 'dd.mm.yyyy'), 1637035.1000000013);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('22.04.2013', 'dd.mm.yyyy'), 1058811.4);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('23.04.2013', 'dd.mm.yyyy'), 1054829.4999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('26.04.2013', 'dd.mm.yyyy'), 1581603.8000000021);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('28.04.2013', 'dd.mm.yyyy'), 1249971.7999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('30.04.2013', 'dd.mm.yyyy'), 1508781.100000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('03.05.2013', 'dd.mm.yyyy'), 1356415.3000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('10.05.2013', 'dd.mm.yyyy'), 1197228.9000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('11.05.2013', 'dd.mm.yyyy'), 1355171.7000000014);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('16.05.2013', 'dd.mm.yyyy'), 1320861.9000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('20.05.2013', 'dd.mm.yyyy'), 1102843.999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('23.05.2013', 'dd.mm.yyyy'), 1300018.1000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('31.05.2013', 'dd.mm.yyyy'), 866898.7999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('01.06.2013', 'dd.mm.yyyy'), 2163148.4000000046);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('08.06.2013', 'dd.mm.yyyy'), 1395008.4000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('09.06.2013', 'dd.mm.yyyy'), 1202580.9000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('12.06.2013', 'dd.mm.yyyy'), 1374815.4000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('19.06.2013', 'dd.mm.yyyy'), 956556.6999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('20.06.2013', 'dd.mm.yyyy'), 1518988.9000000013);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('25.06.2013', 'dd.mm.yyyy'), 1158717.000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('28.06.2013', 'dd.mm.yyyy'), 1391901.5000000014);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('01.07.2013', 'dd.mm.yyyy'), 901473.1);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('05.07.2013', 'dd.mm.yyyy'), 1979373.7000000034);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('09.07.2013', 'dd.mm.yyyy'), 1304346.2000000011);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('11.07.2013', 'dd.mm.yyyy'), 1246760.0999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('13.07.2013', 'dd.mm.yyyy'), 1400338.5999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('15.07.2013', 'dd.mm.yyyy'), 1210229.1000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('20.07.2013', 'dd.mm.yyyy'), 1351287.9000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('28.07.2013', 'dd.mm.yyyy'), 826536.2999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('30.07.2013', 'dd.mm.yyyy'), 1127167.1000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('04.08.2013', 'dd.mm.yyyy'), 1127962.2000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('05.08.2013', 'dd.mm.yyyy'), 1066692.8999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('08.08.2013', 'dd.mm.yyyy'), 1218988.499999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('20.08.2013', 'dd.mm.yyyy'), 1231277.999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('22.08.2013', 'dd.mm.yyyy'), 1466408.9000000015);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('01.09.2013', 'dd.mm.yyyy'), 1377896.6000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('03.09.2013', 'dd.mm.yyyy'), 972766.4000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('13.09.2013', 'dd.mm.yyyy'), 1612132.7999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('15.09.2013', 'dd.mm.yyyy'), 1299281.0000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('16.09.2013', 'dd.mm.yyyy'), 1142202.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('19.09.2013', 'dd.mm.yyyy'), 1262123.4999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('20.09.2013', 'dd.mm.yyyy'), 1634157.9000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('22.09.2013', 'dd.mm.yyyy'), 1270847.7000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('26.09.2013', 'dd.mm.yyyy'), 1222501.000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('04.10.2013', 'dd.mm.yyyy'), 1471853.1999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('11.10.2013', 'dd.mm.yyyy'), 1549390.3000000024);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('13.10.2013', 'dd.mm.yyyy'), 1408873.299999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('15.10.2013', 'dd.mm.yyyy'), 1243344.399999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('23.10.2013', 'dd.mm.yyyy'), 1271127.7000000011);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('30.10.2013', 'dd.mm.yyyy'), 1347775.7000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('31.10.2013', 'dd.mm.yyyy'), 1375558.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('06.11.2013', 'dd.mm.yyyy'), 1294532.7999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('08.11.2013', 'dd.mm.yyyy'), 1770806.8000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('09.11.2013', 'dd.mm.yyyy'), 1747872.4000000018);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('10.11.2013', 'dd.mm.yyyy'), 1506792.2000000014);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('16.11.2013', 'dd.mm.yyyy'), 1801547.300000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('18.11.2013', 'dd.mm.yyyy'), 1261504.3000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('19.11.2013', 'dd.mm.yyyy'), 1187679.999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('21.11.2013', 'dd.mm.yyyy'), 1395254.8);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('26.11.2013', 'dd.mm.yyyy'), 1268838.3000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('01.12.2013', 'dd.mm.yyyy'), 1461303.0000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('06.12.2013', 'dd.mm.yyyy'), 1748926.7000000011);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('18.12.2013', 'dd.mm.yyyy'), 1449762.1000000015);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('26.12.2013', 'dd.mm.yyyy'), 2381420.800000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('02.01.2014', 'dd.mm.yyyy'), 1117738.9);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('05.01.2014', 'dd.mm.yyyy'), 1297225.0000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('07.01.2014', 'dd.mm.yyyy'), 1312068.6999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('11.01.2014', 'dd.mm.yyyy'), 1494192.4999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('13.01.2014', 'dd.mm.yyyy'), 1406581.4000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('14.01.2014', 'dd.mm.yyyy'), 1330585.4);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('21.01.2014', 'dd.mm.yyyy'), 1147786.2999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('22.01.2014', 'dd.mm.yyyy'), 1320997.4999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('24.01.2014', 'dd.mm.yyyy'), 1555111.7000000018);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('25.01.2014', 'dd.mm.yyyy'), 1737256.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('27.01.2014', 'dd.mm.yyyy'), 1161862.4000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('29.01.2014', 'dd.mm.yyyy'), 1352771.7000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('04.02.2014', 'dd.mm.yyyy'), 1237996.299999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('05.02.2014', 'dd.mm.yyyy'), 1282749.9000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('09.02.2014', 'dd.mm.yyyy'), 1385846.6000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('16.02.2014', 'dd.mm.yyyy'), 1415677.8000000012);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('22.02.2014', 'dd.mm.yyyy'), 2048064.1000000024);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('28.02.2014', 'dd.mm.yyyy'), 1678193.6000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('08.03.2014', 'dd.mm.yyyy'), 2813405.300000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('09.03.2014', 'dd.mm.yyyy'), 1492521.000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('13.03.2014', 'dd.mm.yyyy'), 1508042.2000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('21.03.2014', 'dd.mm.yyyy'), 1672502.0000000019);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('25.03.2014', 'dd.mm.yyyy'), 1284182.5999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('28.03.2014', 'dd.mm.yyyy'), 1634941.6000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('29.03.2014', 'dd.mm.yyyy'), 1715731.4000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('03.04.2014', 'dd.mm.yyyy'), 1443673.5999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('04.04.2014', 'dd.mm.yyyy'), 1841826.600000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('06.04.2014', 'dd.mm.yyyy'), 1332110.9000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('07.04.2014', 'dd.mm.yyyy'), 1290831.8000000017);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('08.04.2014', 'dd.mm.yyyy'), 1323320.4999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('13.04.2014', 'dd.mm.yyyy'), 1468692.0000000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('16.04.2014', 'dd.mm.yyyy'), 1493684.7000000014);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('18.04.2014', 'dd.mm.yyyy'), 1943012.7000000023);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('28.04.2014', 'dd.mm.yyyy'), 964399.6999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('03.05.2014', 'dd.mm.yyyy'), 1227129.5000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('04.05.2014', 'dd.mm.yyyy'), 1057533.1999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('15.05.2014', 'dd.mm.yyyy'), 1353919.0999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('16.05.2014', 'dd.mm.yyyy'), 1626847.8000000017);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('17.05.2014', 'dd.mm.yyyy'), 1498750.3000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('21.05.2014', 'dd.mm.yyyy'), 1276265.9000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('23.05.2014', 'dd.mm.yyyy'), 1716213.1999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('28.05.2014', 'dd.mm.yyyy'), 1275649.7000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('31.05.2014', 'dd.mm.yyyy'), 1513100.6000000013);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('01.06.2014', 'dd.mm.yyyy'), 1329407.200000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('03.06.2014', 'dd.mm.yyyy'), 1331107.2000000014);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('06.06.2014', 'dd.mm.yyyy'), 1615258.6000000015);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('11.06.2014', 'dd.mm.yyyy'), 2102111.0000000037);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('16.06.2014', 'dd.mm.yyyy'), 1449804.5000000023);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('22.06.2014', 'dd.mm.yyyy'), 1251065.8999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('04.07.2014', 'dd.mm.yyyy'), 1951899.4000000039);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('06.07.2014', 'dd.mm.yyyy'), 1207852.6);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('07.07.2014', 'dd.mm.yyyy'), 1311047.7999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('08.07.2014', 'dd.mm.yyyy'), 1300483.800000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('15.07.2014', 'dd.mm.yyyy'), 1311122.2999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('19.07.2014', 'dd.mm.yyyy'), 1442053.6);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('03.08.2014', 'dd.mm.yyyy'), 1140220.7999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('05.08.2014', 'dd.mm.yyyy'), 1381182.2);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('11.08.2014', 'dd.mm.yyyy'), 1274866.5);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('12.08.2014', 'dd.mm.yyyy'), 1370229.1000000015);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('13.08.2014', 'dd.mm.yyyy'), 1244310.299999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('14.08.2014', 'dd.mm.yyyy'), 1208191.2000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('19.08.2014', 'dd.mm.yyyy'), 1106390.2999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('24.08.2014', 'dd.mm.yyyy'), 1193971.9999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('28.08.2014', 'dd.mm.yyyy'), 1358158.100000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('04.09.2014', 'dd.mm.yyyy'), 1342045.7000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('08.09.2014', 'dd.mm.yyyy'), 1208068.9000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('09.09.2014', 'dd.mm.yyyy'), 1241130.4999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('15.09.2014', 'dd.mm.yyyy'), 1194542.6999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('17.09.2014', 'dd.mm.yyyy'), 1222477.7);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('18.09.2014', 'dd.mm.yyyy'), 1377649.3000000014);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('22.09.2014', 'dd.mm.yyyy'), 1252477.4000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('26.09.2014', 'dd.mm.yyyy'), 1609244.6000000038);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('29.09.2014', 'dd.mm.yyyy'), 1231944.1);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('30.09.2014', 'dd.mm.yyyy'), 1288350.7000000016);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('07.10.2014', 'dd.mm.yyyy'), 1348623.500000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('11.10.2014', 'dd.mm.yyyy'), 1493519.2000000034);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('12.10.2014', 'dd.mm.yyyy'), 1284448.4000000013);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('16.10.2014', 'dd.mm.yyyy'), 1623534.2000000046);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('18.10.2014', 'dd.mm.yyyy'), 1810140.500000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('26.10.2014', 'dd.mm.yyyy'), 1396789.1000000024);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('01.11.2014', 'dd.mm.yyyy'), 1570637.2000000044);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('03.11.2014', 'dd.mm.yyyy'), 1306436.4000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('05.11.2014', 'dd.mm.yyyy'), 1358556.4000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('06.11.2014', 'dd.mm.yyyy'), 1370523.600000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('07.11.2014', 'dd.mm.yyyy'), 1581884.9000000043);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('10.11.2014', 'dd.mm.yyyy'), 1351818.9000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('11.11.2014', 'dd.mm.yyyy'), 1406558.0000000023);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('12.11.2014', 'dd.mm.yyyy'), 1318575);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('13.11.2014', 'dd.mm.yyyy'), 1696241.0000000037);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('14.11.2014', 'dd.mm.yyyy'), 1611820.7000000023);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('18.11.2014', 'dd.mm.yyyy'), 1207898.4999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('19.11.2014', 'dd.mm.yyyy'), 1245670.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('20.11.2014', 'dd.mm.yyyy'), 1527506.500000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('26.11.2014', 'dd.mm.yyyy'), 1354271.1000000013);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('30.11.2014', 'dd.mm.yyyy'), 1593474.2000000041);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('03.12.2014', 'dd.mm.yyyy'), 1456791.2000000018);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('04.12.2014', 'dd.mm.yyyy'), 1573700.8000000033);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('05.12.2014', 'dd.mm.yyyy'), 1630774.0000000042);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('08.12.2014', 'dd.mm.yyyy'), 1441471.7000000011);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('11.12.2014', 'dd.mm.yyyy'), 1780345.2000000034);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('15.12.2014', 'dd.mm.yyyy'), 1376815.4000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('19.12.2014', 'dd.mm.yyyy'), 2082073.700000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('20.12.2014', 'dd.mm.yyyy'), 1838245.2000000037);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('22.12.2014', 'dd.mm.yyyy'), 1443515.4000000018);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('24.12.2014', 'dd.mm.yyyy'), 1614068.3000000038);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('27.12.2014', 'dd.mm.yyyy'), 2114747.600000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('29.12.2014', 'dd.mm.yyyy'), 2373132.500000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('03.01.2015', 'dd.mm.yyyy'), 1202058.9);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('06.01.2015', 'dd.mm.yyyy'), 1342215.1000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('11.01.2015', 'dd.mm.yyyy'), 1215624.9000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('15.01.2015', 'dd.mm.yyyy'), 1428884.1000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('18.01.2015', 'dd.mm.yyyy'), 1325172.5000000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('21.01.2015', 'dd.mm.yyyy'), 1285571.3000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('22.01.2015', 'dd.mm.yyyy'), 1459027.2000000016);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('26.01.2015', 'dd.mm.yyyy'), 1187757.9);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('27.01.2015', 'dd.mm.yyyy'), 1267608.7999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('31.01.2015', 'dd.mm.yyyy'), 1455296.4000000013);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('01.02.2015', 'dd.mm.yyyy'), 1263382.8000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('03.02.2015', 'dd.mm.yyyy'), 1146823.6999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('05.02.2015', 'dd.mm.yyyy'), 1332162.6999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('07.02.2015', 'dd.mm.yyyy'), 1534780.8000000024);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('08.02.2015', 'dd.mm.yyyy'), 1222372.599999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('15.02.2015', 'dd.mm.yyyy'), 1489190.2000000011);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('19.02.2015', 'dd.mm.yyyy'), 1618165.8000000026);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('20.02.2015', 'dd.mm.yyyy'), 1874481.4000000046);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('04.03.2015', 'dd.mm.yyyy'), 1169500.399999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('06.03.2015', 'dd.mm.yyyy'), 2623985.3000000073);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('08.03.2015', 'dd.mm.yyyy'), 1937575.300000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('09.03.2015', 'dd.mm.yyyy'), 1284896.8999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('13.03.2015', 'dd.mm.yyyy'), 1632812.0000000014);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('17.03.2015', 'dd.mm.yyyy'), 1191434.6999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('19.03.2015', 'dd.mm.yyyy'), 1439415.100000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('20.03.2015', 'dd.mm.yyyy'), 1538559.000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('31.03.2015', 'dd.mm.yyyy'), 1225669.900000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('06.04.2015', 'dd.mm.yyyy'), 1188992.4999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('08.04.2015', 'dd.mm.yyyy'), 1172557.9);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('14.04.2015', 'dd.mm.yyyy'), 1225184.0999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('18.04.2015', 'dd.mm.yyyy'), 1354215.200000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('19.04.2015', 'dd.mm.yyyy'), 1114517.899999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('21.04.2015', 'dd.mm.yyyy'), 1251033.5);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('25.04.2015', 'dd.mm.yyyy'), 1418716.200000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('01.05.2015', 'dd.mm.yyyy'), 1335561.4000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('04.05.2015', 'dd.mm.yyyy'), 1288055.8);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('09.05.2015', 'dd.mm.yyyy'), 1439911.9000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('12.05.2015', 'dd.mm.yyyy'), 1329007.9000000013);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('14.05.2015', 'dd.mm.yyyy'), 1367826.7000000014);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('18.05.2015', 'dd.mm.yyyy'), 1331485.8000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('23.05.2015', 'dd.mm.yyyy'), 1473587.8000000012);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('24.05.2015', 'dd.mm.yyyy'), 1278885.2000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('26.05.2015', 'dd.mm.yyyy'), 1288691.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('27.05.2015', 'dd.mm.yyyy'), 1239999.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('30.05.2015', 'dd.mm.yyyy'), 1392217.1000000015);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('02.06.2015', 'dd.mm.yyyy'), 1360092.900000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('03.06.2015', 'dd.mm.yyyy'), 1193223.7999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('04.06.2015', 'dd.mm.yyyy'), 1593923.0000000014);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('11.06.2015', 'dd.mm.yyyy'), 1820857.100000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('20.06.2015', 'dd.mm.yyyy'), 1786227.8000000026);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('23.06.2015', 'dd.mm.yyyy'), 1401685.6000000013);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('25.06.2015', 'dd.mm.yyyy'), 1670261.800000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('26.06.2015', 'dd.mm.yyyy'), 1725548.5000000023);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('28.06.2015', 'dd.mm.yyyy'), 1145881.8999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('29.06.2015', 'dd.mm.yyyy'), 1274243.9000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('03.07.2015', 'dd.mm.yyyy'), 1745678.3000000047);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('13.07.2015', 'dd.mm.yyyy'), 1256125.3999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('15.07.2015', 'dd.mm.yyyy'), 1179420.3999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('22.07.2015', 'dd.mm.yyyy'), 1207861.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('23.07.2015', 'dd.mm.yyyy'), 1359716.4999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('24.07.2015', 'dd.mm.yyyy'), 1492719.0000000019);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('04.08.2015', 'dd.mm.yyyy'), 1152861.4);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('05.08.2015', 'dd.mm.yyyy'), 1207432.9999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('13.08.2015', 'dd.mm.yyyy'), 1580307.5000000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('14.08.2015', 'dd.mm.yyyy'), 1522324.1000000013);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('21.08.2015', 'dd.mm.yyyy'), 1576842.6000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('27.08.2015', 'dd.mm.yyyy'), 1322877.6000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('01.09.2015', 'dd.mm.yyyy'), 1185638.099999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('10.09.2015', 'dd.mm.yyyy'), 1462186.1000000013);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('14.09.2015', 'dd.mm.yyyy'), 1233831.0999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('19.09.2015', 'dd.mm.yyyy'), 1278500.4);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('20.09.2015', 'dd.mm.yyyy'), 1371166.0000000014);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('22.09.2015', 'dd.mm.yyyy'), 1352603.600000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('23.09.2015', 'dd.mm.yyyy'), 1066598.199999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('25.09.2015', 'dd.mm.yyyy'), 1468068.6000000031);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('26.09.2015', 'dd.mm.yyyy'), 1357329.7000000014);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('01.10.2015', 'dd.mm.yyyy'), 1313076.1000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('04.10.2015', 'dd.mm.yyyy'), 1407490.8000000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('09.10.2015', 'dd.mm.yyyy'), 1527142.2000000016);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('10.10.2015', 'dd.mm.yyyy'), 1529571.1000000022);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('11.10.2015', 'dd.mm.yyyy'), 1332669.8000000017);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('14.10.2015', 'dd.mm.yyyy'), 1129162.8999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('22.10.2015', 'dd.mm.yyyy'), 1590042.9000000018);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('26.10.2015', 'dd.mm.yyyy'), 1118366.1999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('29.10.2015', 'dd.mm.yyyy'), 1486400.3000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('04.11.2015', 'dd.mm.yyyy'), 1364276.4000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('05.11.2015', 'dd.mm.yyyy'), 1425723.2000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('15.11.2015', 'dd.mm.yyyy'), 1493038.5000000028);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('18.11.2015', 'dd.mm.yyyy'), 1169320.2999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('22.11.2015', 'dd.mm.yyyy'), 1248787.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('23.11.2015', 'dd.mm.yyyy'), 1372557.6000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('24.11.2015', 'dd.mm.yyyy'), 1248626.3000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('26.11.2015', 'dd.mm.yyyy'), 1533659.2000000016);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('01.12.2015', 'dd.mm.yyyy'), 1013350.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('02.12.2015', 'dd.mm.yyyy'), 1306090.7);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('05.12.2015', 'dd.mm.yyyy'), 1536620.0000000028);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('06.12.2015', 'dd.mm.yyyy'), 1274816.400000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('07.12.2015', 'dd.mm.yyyy'), 1141169.4000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('08.12.2015', 'dd.mm.yyyy'), 1306173.0000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('18.12.2015', 'dd.mm.yyyy'), 1464326.8000000012);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('20.12.2015', 'dd.mm.yyyy'), 1690179.0000000042);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('23.12.2015', 'dd.mm.yyyy'), 1738243.7000000034);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 23', to_date('25.12.2015', 'dd.mm.yyyy'), 2385635.600000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('06.01.2013', 'dd.mm.yyyy'), 1119936.8000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('10.01.2013', 'dd.mm.yyyy'), 1065202.4000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('11.01.2013', 'dd.mm.yyyy'), 1270439.0000000023);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('20.01.2013', 'dd.mm.yyyy'), 950550.799999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('26.01.2013', 'dd.mm.yyyy'), 753933.5000000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('31.01.2013', 'dd.mm.yyyy'), 751227.6999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('02.02.2013', 'dd.mm.yyyy'), 501310.6999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('07.02.2013', 'dd.mm.yyyy'), 475417.59999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('11.02.2013', 'dd.mm.yyyy'), 596359.9);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('18.02.2013', 'dd.mm.yyyy'), 568107.4);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('21.02.2013', 'dd.mm.yyyy'), 793056.1999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('27.02.2013', 'dd.mm.yyyy'), 641425.7999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('03.03.2013', 'dd.mm.yyyy'), 499313.4000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('08.03.2013', 'dd.mm.yyyy'), 888716.8999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('09.03.2013', 'dd.mm.yyyy'), 540906.6000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('12.03.2013', 'dd.mm.yyyy'), 722283.6000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('15.03.2013', 'dd.mm.yyyy'), 621803.1000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('17.03.2013', 'dd.mm.yyyy'), 634906.2000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('27.03.2013', 'dd.mm.yyyy'), 557229.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('28.03.2013', 'dd.mm.yyyy'), 623254.7);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('30.03.2013', 'dd.mm.yyyy'), 756446.7000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('02.04.2013', 'dd.mm.yyyy'), 631622.2000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('04.04.2013', 'dd.mm.yyyy'), 631995.8000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('05.04.2013', 'dd.mm.yyyy'), 733177.0999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('13.04.2013', 'dd.mm.yyyy'), 825086.8999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('19.04.2013', 'dd.mm.yyyy'), 535863.1999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('22.04.2013', 'dd.mm.yyyy'), 571659.8999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('24.04.2013', 'dd.mm.yyyy'), 661045.5000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('30.04.2013', 'dd.mm.yyyy'), 383818.99999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('04.05.2013', 'dd.mm.yyyy'), 714169.1);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('06.05.2013', 'dd.mm.yyyy'), 565680.3999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('07.05.2013', 'dd.mm.yyyy'), 535054.7999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('20.05.2013', 'dd.mm.yyyy'), 556007.7999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('22.05.2013', 'dd.mm.yyyy'), 657028.3999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('23.05.2013', 'dd.mm.yyyy'), 722333.599999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('31.05.2013', 'dd.mm.yyyy'), 820835.5999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('01.06.2013', 'dd.mm.yyyy'), 612171.5999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('09.06.2013', 'dd.mm.yyyy'), 566621.3999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('10.06.2013', 'dd.mm.yyyy'), 736954.0999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('13.06.2013', 'dd.mm.yyyy'), 769197.6999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('14.06.2013', 'dd.mm.yyyy'), 878520.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('17.06.2013', 'dd.mm.yyyy'), 871655.4999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('22.06.2013', 'dd.mm.yyyy'), 567689.1999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('25.06.2013', 'dd.mm.yyyy'), 559855);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('27.06.2013', 'dd.mm.yyyy'), 654077.2);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('01.07.2013', 'dd.mm.yyyy'), 537589.3999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('05.07.2013', 'dd.mm.yyyy'), 430896.59999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('07.07.2013', 'dd.mm.yyyy'), 682423.5999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('10.07.2013', 'dd.mm.yyyy'), 655644.7999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('12.07.2013', 'dd.mm.yyyy'), 690568.8999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('14.07.2013', 'dd.mm.yyyy'), 379992.3000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('23.07.2013', 'dd.mm.yyyy'), 561198.5999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('28.07.2013', 'dd.mm.yyyy'), 428243.09999999974);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('30.07.2013', 'dd.mm.yyyy'), 607428.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('06.08.2013', 'dd.mm.yyyy'), 592502.7999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('13.08.2013', 'dd.mm.yyyy'), 652979.7000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('31.08.2013', 'dd.mm.yyyy'), 687913.2999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('02.09.2013', 'dd.mm.yyyy'), 735671.6999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('05.09.2013', 'dd.mm.yyyy'), 705777.7999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('09.09.2013', 'dd.mm.yyyy'), 621797.0999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('10.09.2013', 'dd.mm.yyyy'), 600878.1999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('13.09.2013', 'dd.mm.yyyy'), 819471.3999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('14.09.2013', 'dd.mm.yyyy'), 619101.8000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('16.09.2013', 'dd.mm.yyyy'), 750191.2999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('18.09.2013', 'dd.mm.yyyy'), 606670.2000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('28.09.2013', 'dd.mm.yyyy'), 744995.7999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('30.09.2013', 'dd.mm.yyyy'), 682846.5999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('01.10.2013', 'dd.mm.yyyy'), 684167.0999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('12.10.2013', 'dd.mm.yyyy'), 809663.3999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('25.10.2013', 'dd.mm.yyyy'), 789160.099999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('28.10.2013', 'dd.mm.yyyy'), 623866.5);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('31.10.2013', 'dd.mm.yyyy'), 747244.6999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('02.11.2013', 'dd.mm.yyyy'), 645689.9);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('03.11.2013', 'dd.mm.yyyy'), 684667.2999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('05.11.2013', 'dd.mm.yyyy'), 770621.9000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('06.11.2013', 'dd.mm.yyyy'), 746729.3999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('12.11.2013', 'dd.mm.yyyy'), 741769.4999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('16.11.2013', 'dd.mm.yyyy'), 796481.6);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('24.11.2013', 'dd.mm.yyyy'), 683687.4999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('30.11.2013', 'dd.mm.yyyy'), 828104.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('12.12.2013', 'dd.mm.yyyy'), 912712.8999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('13.12.2013', 'dd.mm.yyyy'), 910961.4999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('15.12.2013', 'dd.mm.yyyy'), 744046.7999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('19.12.2013', 'dd.mm.yyyy'), 886424.7);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('21.12.2013', 'dd.mm.yyyy'), 936667.1999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('22.12.2013', 'dd.mm.yyyy'), 735455.7999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('23.12.2013', 'dd.mm.yyyy'), 832213.6);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('24.12.2013', 'dd.mm.yyyy'), 858750.7999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('25.12.2013', 'dd.mm.yyyy'), 942585.4999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('01.01.2014', 'dd.mm.yyyy'), 378530.3999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('02.01.2014', 'dd.mm.yyyy'), 568799.5999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('04.01.2014', 'dd.mm.yyyy'), 498698.6999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('05.01.2014', 'dd.mm.yyyy'), 666403.2999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('12.01.2014', 'dd.mm.yyyy'), 531127.5999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('13.01.2014', 'dd.mm.yyyy'), 784311.6999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('25.01.2014', 'dd.mm.yyyy'), 752143.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('28.01.2014', 'dd.mm.yyyy'), 667232.5999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('04.02.2014', 'dd.mm.yyyy'), 741430.4999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('07.02.2014', 'dd.mm.yyyy'), 726969.9999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('09.02.2014', 'dd.mm.yyyy'), 650290.9000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('11.02.2014', 'dd.mm.yyyy'), 701460.8999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('13.02.2014', 'dd.mm.yyyy'), 1014253.5999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('16.02.2014', 'dd.mm.yyyy'), 646588.2999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('23.02.2014', 'dd.mm.yyyy'), 819210.9999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('25.02.2014', 'dd.mm.yyyy'), 679105.4999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('27.02.2014', 'dd.mm.yyyy'), 940874.7);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('04.03.2014', 'dd.mm.yyyy'), 758401.2999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('06.03.2014', 'dd.mm.yyyy'), 1338100.6000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('22.03.2014', 'dd.mm.yyyy'), 932873.6999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('24.03.2014', 'dd.mm.yyyy'), 725367.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('27.03.2014', 'dd.mm.yyyy'), 897030.3999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('28.03.2014', 'dd.mm.yyyy'), 859441.2999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('02.04.2014', 'dd.mm.yyyy'), 763275.9999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('06.04.2014', 'dd.mm.yyyy'), 695851.7);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('11.04.2014', 'dd.mm.yyyy'), 751519.9999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('12.04.2014', 'dd.mm.yyyy'), 917281.6999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('14.04.2014', 'dd.mm.yyyy'), 716997.1999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('16.04.2014', 'dd.mm.yyyy'), 694712.9999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('21.04.2014', 'dd.mm.yyyy'), 685372.1999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('27.04.2014', 'dd.mm.yyyy'), 781856.7999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('29.04.2014', 'dd.mm.yyyy'), 821823.4999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('01.05.2014', 'dd.mm.yyyy'), 819499.3999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('03.05.2014', 'dd.mm.yyyy'), 583283.4999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('08.05.2014', 'dd.mm.yyyy'), 1078319.5999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('10.05.2014', 'dd.mm.yyyy'), 636354.0000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('14.05.2014', 'dd.mm.yyyy'), 751724.5999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('17.05.2014', 'dd.mm.yyyy'), 943518.0999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('22.05.2014', 'dd.mm.yyyy'), 1036676.6999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('26.05.2014', 'dd.mm.yyyy'), 781576.3999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('01.06.2014', 'dd.mm.yyyy'), 629769.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('07.06.2014', 'dd.mm.yyyy'), 937365.7999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('12.06.2014', 'dd.mm.yyyy'), 944632.2999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('17.06.2014', 'dd.mm.yyyy'), 737785.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('18.06.2014', 'dd.mm.yyyy'), 824289.7999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('19.06.2014', 'dd.mm.yyyy'), 653096.1000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('23.06.2014', 'dd.mm.yyyy'), 531278);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('25.06.2014', 'dd.mm.yyyy'), 874623.5999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('27.06.2014', 'dd.mm.yyyy'), 682177.7);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('28.06.2014', 'dd.mm.yyyy'), 686875.6999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('30.06.2014', 'dd.mm.yyyy'), 920259.7999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('01.07.2014', 'dd.mm.yyyy'), 799512.299999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('02.07.2014', 'dd.mm.yyyy'), 780872.1999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('05.07.2014', 'dd.mm.yyyy'), 626303.5999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('06.07.2014', 'dd.mm.yyyy'), 383935.7999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('13.07.2014', 'dd.mm.yyyy'), 298033.70000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('22.07.2014', 'dd.mm.yyyy'), 476966.59999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('26.07.2014', 'dd.mm.yyyy'), 685854.5000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('29.07.2014', 'dd.mm.yyyy'), 725248.3999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('01.08.2014', 'dd.mm.yyyy'), 817968.8999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('08.08.2014', 'dd.mm.yyyy'), 829994.6000000006);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('16.08.2014', 'dd.mm.yyyy'), 597046.0999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('22.08.2014', 'dd.mm.yyyy'), 321229.89999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('23.08.2014', 'dd.mm.yyyy'), 1018832.3999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('28.08.2014', 'dd.mm.yyyy'), 740105.1999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('30.08.2014', 'dd.mm.yyyy'), 972489.7999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('05.09.2014', 'dd.mm.yyyy'), 380485.1999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('08.09.2014', 'dd.mm.yyyy'), 736062.3999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('10.09.2014', 'dd.mm.yyyy'), 714966.2999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('15.09.2014', 'dd.mm.yyyy'), 623306.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('20.09.2014', 'dd.mm.yyyy'), 765138.4999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('23.09.2014', 'dd.mm.yyyy'), 1008389.7999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('27.09.2014', 'dd.mm.yyyy'), 224760.00000000012);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('28.09.2014', 'dd.mm.yyyy'), 1233268.7000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('01.10.2014', 'dd.mm.yyyy'), 784880.2999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('05.10.2014', 'dd.mm.yyyy'), 1240657.6000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('07.10.2014', 'dd.mm.yyyy'), 796005.7999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('09.10.2014', 'dd.mm.yyyy'), 540012.4999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('10.10.2014', 'dd.mm.yyyy'), 495863.29999999946);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('12.10.2014', 'dd.mm.yyyy'), 898542.6999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('13.10.2014', 'dd.mm.yyyy'), 848981.5999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('20.10.2014', 'dd.mm.yyyy'), 929965.5999999981);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('30.10.2014', 'dd.mm.yyyy'), 1191969.7999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('04.11.2014', 'dd.mm.yyyy'), 710162.7999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('05.11.2014', 'dd.mm.yyyy'), 705655.5999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('06.11.2014', 'dd.mm.yyyy'), 883369.7999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('08.11.2014', 'dd.mm.yyyy'), 227540.4000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('10.11.2014', 'dd.mm.yyyy'), 875582.899999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('17.11.2014', 'dd.mm.yyyy'), 1040311.1999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('26.11.2014', 'dd.mm.yyyy'), 762213.5999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('27.11.2014', 'dd.mm.yyyy'), 842210.2999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('01.12.2014', 'dd.mm.yyyy'), 471533.49999999953);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('04.12.2014', 'dd.mm.yyyy'), 982744.2999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('05.12.2014', 'dd.mm.yyyy'), 1004563.3999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('06.12.2014', 'dd.mm.yyyy'), 588354.4999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('08.12.2014', 'dd.mm.yyyy'), 679874.5999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('13.12.2014', 'dd.mm.yyyy'), 1007865.2999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('14.12.2014', 'dd.mm.yyyy'), 888831.999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('19.12.2014', 'dd.mm.yyyy'), 1079478.0999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('20.12.2014', 'dd.mm.yyyy'), 742316.0999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('22.12.2014', 'dd.mm.yyyy'), 1306090.3000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('24.12.2014', 'dd.mm.yyyy'), 893749.0999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('09.01.2015', 'dd.mm.yyyy'), 565552.5999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('16.01.2015', 'dd.mm.yyyy'), 1283728.700000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('18.01.2015', 'dd.mm.yyyy'), 593732.5999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('25.01.2015', 'dd.mm.yyyy'), 929346.2999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('28.01.2015', 'dd.mm.yyyy'), 1143140.3999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('05.02.2015', 'dd.mm.yyyy'), 829096.1999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('07.02.2015', 'dd.mm.yyyy'), 706757.8999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('09.02.2015', 'dd.mm.yyyy'), 784610.9999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('17.02.2015', 'dd.mm.yyyy'), 1100662.9999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('19.02.2015', 'dd.mm.yyyy'), 1495489.0000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('27.02.2015', 'dd.mm.yyyy'), 1421214.9000000018);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('02.03.2015', 'dd.mm.yyyy'), 508031.29999999935);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('08.03.2015', 'dd.mm.yyyy'), 954011.6000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('13.03.2015', 'dd.mm.yyyy'), 1006016.899999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('18.03.2015', 'dd.mm.yyyy'), 917898.4999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('19.03.2015', 'dd.mm.yyyy'), 852517.7999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('21.03.2015', 'dd.mm.yyyy'), 946930.5999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('24.03.2015', 'dd.mm.yyyy'), 762480.2999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('25.03.2015', 'dd.mm.yyyy'), 707429.6999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('04.04.2015', 'dd.mm.yyyy'), 873094.2999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('12.04.2015', 'dd.mm.yyyy'), 1143997.6);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('13.04.2015', 'dd.mm.yyyy'), 439455.5999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('14.04.2015', 'dd.mm.yyyy'), 629536.4999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('16.04.2015', 'dd.mm.yyyy'), 1189973.3);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('17.04.2015', 'dd.mm.yyyy'), 926756.1999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('26.04.2015', 'dd.mm.yyyy'), 753486.0999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('30.04.2015', 'dd.mm.yyyy'), 870443.6999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('02.05.2015', 'dd.mm.yyyy'), 411839.29999999964);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('03.05.2015', 'dd.mm.yyyy'), 738325.2999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('06.05.2015', 'dd.mm.yyyy'), 728045.2999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('07.05.2015', 'dd.mm.yyyy'), 696779.8999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('08.05.2015', 'dd.mm.yyyy'), 1572325.4000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('13.05.2015', 'dd.mm.yyyy'), 851443.3999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('19.05.2015', 'dd.mm.yyyy'), 762255.2999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('21.05.2015', 'dd.mm.yyyy'), 801752.2999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('25.05.2015', 'dd.mm.yyyy'), 576237.2999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('26.05.2015', 'dd.mm.yyyy'), 814475.3999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('13.06.2015', 'dd.mm.yyyy'), 859233.6999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('15.06.2015', 'dd.mm.yyyy'), 763746.5999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('19.06.2015', 'dd.mm.yyyy'), 1022640.299999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('22.06.2015', 'dd.mm.yyyy'), 681462.9999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('29.06.2015', 'dd.mm.yyyy'), 757336.2999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('06.07.2015', 'dd.mm.yyyy'), 775552.6999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('07.07.2015', 'dd.mm.yyyy'), 616474.1999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('08.07.2015', 'dd.mm.yyyy'), 784152.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('17.07.2015', 'dd.mm.yyyy'), 947091.4999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('18.07.2015', 'dd.mm.yyyy'), 980435.0999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('21.07.2015', 'dd.mm.yyyy'), 800130.6999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('31.07.2015', 'dd.mm.yyyy'), 1251249.000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('03.08.2015', 'dd.mm.yyyy'), 777074.799999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('08.08.2015', 'dd.mm.yyyy'), 1102373.7000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('09.08.2015', 'dd.mm.yyyy'), 604470.0999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('10.08.2015', 'dd.mm.yyyy'), 741281.8999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('12.08.2015', 'dd.mm.yyyy'), 719959.4999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('14.08.2015', 'dd.mm.yyyy'), 1120240.2);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('17.08.2015', 'dd.mm.yyyy'), 714056.0999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('18.08.2015', 'dd.mm.yyyy'), 877550.599999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('20.08.2015', 'dd.mm.yyyy'), 798330.0999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('21.08.2015', 'dd.mm.yyyy'), 857267.8999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('23.08.2015', 'dd.mm.yyyy'), 417415.8999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('30.08.2015', 'dd.mm.yyyy'), 545649.7999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('01.09.2015', 'dd.mm.yyyy'), 459257.7999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('02.09.2015', 'dd.mm.yyyy'), 736985.6999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('06.09.2015', 'dd.mm.yyyy'), 901961.0999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('07.09.2015', 'dd.mm.yyyy'), 679814.1999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('08.09.2015', 'dd.mm.yyyy'), 814015.2999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('14.09.2015', 'dd.mm.yyyy'), 616310.3999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('24.09.2015', 'dd.mm.yyyy'), 933678.4999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('30.09.2015', 'dd.mm.yyyy'), 1049305.6000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('07.10.2015', 'dd.mm.yyyy'), 652429.799999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('09.10.2015', 'dd.mm.yyyy'), 828834.7);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('12.10.2015', 'dd.mm.yyyy'), 650639.5999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('15.10.2015', 'dd.mm.yyyy'), 929201.6999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('19.10.2015', 'dd.mm.yyyy'), 669491.4999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('20.10.2015', 'dd.mm.yyyy'), 629380.4999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('24.10.2015', 'dd.mm.yyyy'), 822440.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('29.10.2015', 'dd.mm.yyyy'), 1026698.6999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('06.11.2015', 'dd.mm.yyyy'), 724746.5999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('09.11.2015', 'dd.mm.yyyy'), 684007.2999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('12.11.2015', 'dd.mm.yyyy'), 1058431.6000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('14.11.2015', 'dd.mm.yyyy'), 854590.0000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('18.11.2015', 'dd.mm.yyyy'), 567503.3999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('23.11.2015', 'dd.mm.yyyy'), 833376.2000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('26.11.2015', 'dd.mm.yyyy'), 1120911.9);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('28.11.2015', 'dd.mm.yyyy'), 938351.9999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('30.11.2015', 'dd.mm.yyyy'), 962685.0999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('03.12.2015', 'dd.mm.yyyy'), 659624.3999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('14.12.2015', 'dd.mm.yyyy'), 875550.8999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('16.12.2015', 'dd.mm.yyyy'), 636157.1999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 51', to_date('25.12.2015', 'dd.mm.yyyy'), 1312603.1000000022);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('02.01.2013', 'dd.mm.yyyy'), 1067763.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('09.01.2013', 'dd.mm.yyyy'), 1517734.4000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('11.01.2013', 'dd.mm.yyyy'), 1424983.8000000026);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('17.01.2013', 'dd.mm.yyyy'), 1346805.4000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('27.01.2013', 'dd.mm.yyyy'), 843856.2999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('29.01.2013', 'dd.mm.yyyy'), 949264.9000000004);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('03.02.2013', 'dd.mm.yyyy'), 850767.5999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('18.02.2013', 'dd.mm.yyyy'), 871757.9999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('20.02.2013', 'dd.mm.yyyy'), 691149.4999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('21.02.2013', 'dd.mm.yyyy'), 1013534.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('06.03.2013', 'dd.mm.yyyy'), 1179936.8);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('09.03.2013', 'dd.mm.yyyy'), 1158946.6000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('11.03.2013', 'dd.mm.yyyy'), 803732.5999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('16.03.2013', 'dd.mm.yyyy'), 1163036.7999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('17.03.2013', 'dd.mm.yyyy'), 812171.6999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('20.03.2013', 'dd.mm.yyyy'), 834298.599999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('04.04.2013', 'dd.mm.yyyy'), 769392.2000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('10.04.2013', 'dd.mm.yyyy'), 832478.9999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('11.04.2013', 'dd.mm.yyyy'), 916433.1999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('12.04.2013', 'dd.mm.yyyy'), 1090931.1999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('16.04.2013', 'dd.mm.yyyy'), 814111.6999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('18.04.2013', 'dd.mm.yyyy'), 823491.4000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('24.04.2013', 'dd.mm.yyyy'), 934724.3999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('25.04.2013', 'dd.mm.yyyy'), 982262.1999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('29.04.2013', 'dd.mm.yyyy'), 1005036.4000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('02.05.2013', 'dd.mm.yyyy'), 744101.3999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('04.05.2013', 'dd.mm.yyyy'), 1085971.2);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('05.05.2013', 'dd.mm.yyyy'), 1108279.6999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('06.05.2013', 'dd.mm.yyyy'), 676978.1000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('08.05.2013', 'dd.mm.yyyy'), 919609.0999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('10.05.2013', 'dd.mm.yyyy'), 791916.9999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('11.05.2013', 'dd.mm.yyyy'), 994619.2999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('16.05.2013', 'dd.mm.yyyy'), 802757.399999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('21.05.2013', 'dd.mm.yyyy'), 678064.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('23.05.2013', 'dd.mm.yyyy'), 842175.5999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('25.05.2013', 'dd.mm.yyyy'), 950330.7999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('29.05.2013', 'dd.mm.yyyy'), 850910.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('14.06.2013', 'dd.mm.yyyy'), 918487.6999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('15.06.2013', 'dd.mm.yyyy'), 864852.7999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('16.06.2013', 'dd.mm.yyyy'), 817759.6999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('25.06.2013', 'dd.mm.yyyy'), 1019748.2999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('04.07.2013', 'dd.mm.yyyy'), 931629.4999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('05.07.2013', 'dd.mm.yyyy'), 813485.5999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('18.07.2013', 'dd.mm.yyyy'), 918357.7999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('23.07.2013', 'dd.mm.yyyy'), 691688.9999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('24.07.2013', 'dd.mm.yyyy'), 804262.8999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('01.08.2013', 'dd.mm.yyyy'), 866442.9999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('07.08.2013', 'dd.mm.yyyy'), 713515.0999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('11.08.2013', 'dd.mm.yyyy'), 991870.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('19.08.2013', 'dd.mm.yyyy'), 669346.5999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('22.08.2013', 'dd.mm.yyyy'), 801816.7999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('28.08.2013', 'dd.mm.yyyy'), 757286.6000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('29.08.2013', 'dd.mm.yyyy'), 719431.7);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('02.09.2013', 'dd.mm.yyyy'), 658926.6000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('04.09.2013', 'dd.mm.yyyy'), 684905.2999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('06.09.2013', 'dd.mm.yyyy'), 1142822.4000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('11.09.2013', 'dd.mm.yyyy'), 969461.4999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('20.09.2013', 'dd.mm.yyyy'), 962783.9999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('21.09.2013', 'dd.mm.yyyy'), 848669.0999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('23.09.2013', 'dd.mm.yyyy'), 619347.0999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('25.09.2013', 'dd.mm.yyyy'), 867879.9999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('28.09.2013', 'dd.mm.yyyy'), 816346.1000000003);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('29.09.2013', 'dd.mm.yyyy'), 1084830.4000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('03.10.2013', 'dd.mm.yyyy'), 902266.7);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('05.10.2013', 'dd.mm.yyyy'), 1276234);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('06.10.2013', 'dd.mm.yyyy'), 839781.999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('09.10.2013', 'dd.mm.yyyy'), 816453.299999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('20.10.2013', 'dd.mm.yyyy'), 1004797.7999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('23.10.2013', 'dd.mm.yyyy'), 923363.9999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('27.10.2013', 'dd.mm.yyyy'), 911068.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('30.10.2013', 'dd.mm.yyyy'), 828214.0999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('02.11.2013', 'dd.mm.yyyy'), 762494.5999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('03.11.2013', 'dd.mm.yyyy'), 720124.3999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('04.11.2013', 'dd.mm.yyyy'), 1090197.9999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('05.11.2013', 'dd.mm.yyyy'), 801234.099999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('07.11.2013', 'dd.mm.yyyy'), 826657.0999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('13.11.2013', 'dd.mm.yyyy'), 807366.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('14.11.2013', 'dd.mm.yyyy'), 825716.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('15.11.2013', 'dd.mm.yyyy'), 988298.5999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('16.11.2013', 'dd.mm.yyyy'), 1048688.0999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('19.11.2013', 'dd.mm.yyyy'), 876436.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('20.11.2013', 'dd.mm.yyyy'), 784588.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('25.11.2013', 'dd.mm.yyyy'), 901671.3999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('28.11.2013', 'dd.mm.yyyy'), 914500.8999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('02.12.2013', 'dd.mm.yyyy'), 907302.2999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('04.12.2013', 'dd.mm.yyyy'), 956733.3999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('09.12.2013', 'dd.mm.yyyy'), 1055727.7999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('11.12.2013', 'dd.mm.yyyy'), 952476.499999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('13.12.2013', 'dd.mm.yyyy'), 1096519.2000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('20.12.2013', 'dd.mm.yyyy'), 1155617.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('21.12.2013', 'dd.mm.yyyy'), 1086311.4);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('22.12.2013', 'dd.mm.yyyy'), 1607417.3000000014);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('25.12.2013', 'dd.mm.yyyy'), 992204.4999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('26.12.2013', 'dd.mm.yyyy'), 1342593.300000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('27.12.2013', 'dd.mm.yyyy'), 1488674.900000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('31.12.2013', 'dd.mm.yyyy'), 2862625.2000000034);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('01.01.2014', 'dd.mm.yyyy'), 910809.8999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('02.01.2014', 'dd.mm.yyyy'), 768726.0999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('11.01.2014', 'dd.mm.yyyy'), 1040259.9999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('13.01.2014', 'dd.mm.yyyy'), 1033299.8999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('14.01.2014', 'dd.mm.yyyy'), 762841.1999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('27.01.2014', 'dd.mm.yyyy'), 1161744.5999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('03.02.2014', 'dd.mm.yyyy'), 969146.1999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('06.02.2014', 'dd.mm.yyyy'), 968621.3999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('07.02.2014', 'dd.mm.yyyy'), 866167.2999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('10.02.2014', 'dd.mm.yyyy'), 779253.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('18.02.2014', 'dd.mm.yyyy'), 831364.599999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('20.02.2014', 'dd.mm.yyyy'), 1150764.0000000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('21.02.2014', 'dd.mm.yyyy'), 1143501.3999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('26.02.2014', 'dd.mm.yyyy'), 955168.4999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('28.02.2014', 'dd.mm.yyyy'), 1056730.5000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('01.03.2014', 'dd.mm.yyyy'), 1052986.7);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('06.03.2014', 'dd.mm.yyyy'), 1274194.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('09.03.2014', 'dd.mm.yyyy'), 1081213.5);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('14.03.2014', 'dd.mm.yyyy'), 1097823.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('16.03.2014', 'dd.mm.yyyy'), 1106098.8);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('22.03.2014', 'dd.mm.yyyy'), 1328287.1000000008);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('29.03.2014', 'dd.mm.yyyy'), 1089353.8999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('30.03.2014', 'dd.mm.yyyy'), 994410.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('31.03.2014', 'dd.mm.yyyy'), 789937.3999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('09.04.2014', 'dd.mm.yyyy'), 970831.3999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('10.04.2014', 'dd.mm.yyyy'), 1159704.7);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('14.04.2014', 'dd.mm.yyyy'), 769792.1999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('20.04.2014', 'dd.mm.yyyy'), 1148107.7999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('21.04.2014', 'dd.mm.yyyy'), 771844.5999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('10.05.2014', 'dd.mm.yyyy'), 831251.7999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('13.05.2014', 'dd.mm.yyyy'), 876612.0999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('19.05.2014', 'dd.mm.yyyy'), 777286.599999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('30.05.2014', 'dd.mm.yyyy'), 872554.7999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('31.05.2014', 'dd.mm.yyyy'), 1132606.0999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('01.06.2014', 'dd.mm.yyyy'), 895939.799999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('03.06.2014', 'dd.mm.yyyy'), 674804.8999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('04.06.2014', 'dd.mm.yyyy'), 917579.7999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('10.06.2014', 'dd.mm.yyyy'), 642906.2999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('11.06.2014', 'dd.mm.yyyy'), 1134831.0000000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('12.06.2014', 'dd.mm.yyyy'), 1074959.8999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('14.06.2014', 'dd.mm.yyyy'), 633592.1999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('16.06.2014', 'dd.mm.yyyy'), 766636.8999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('18.06.2014', 'dd.mm.yyyy'), 801967.299999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('22.06.2014', 'dd.mm.yyyy'), 884397.0999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('23.06.2014', 'dd.mm.yyyy'), 1126408.9999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('24.06.2014', 'dd.mm.yyyy'), 696627.4999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('25.06.2014', 'dd.mm.yyyy'), 853522.5999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('27.06.2014', 'dd.mm.yyyy'), 566961.0999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('02.07.2014', 'dd.mm.yyyy'), 833903.499999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('05.07.2014', 'dd.mm.yyyy'), 754391.5999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('06.07.2014', 'dd.mm.yyyy'), 1038698.0999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('07.07.2014', 'dd.mm.yyyy'), 874432.0999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('15.07.2014', 'dd.mm.yyyy'), 766595.3999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('23.07.2014', 'dd.mm.yyyy'), 705583.4999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('24.07.2014', 'dd.mm.yyyy'), 998365.1999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('27.07.2014', 'dd.mm.yyyy'), 1091890.4999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('01.08.2014', 'dd.mm.yyyy'), 500994.69999999966);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('05.08.2014', 'dd.mm.yyyy'), 566275.8999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('10.08.2014', 'dd.mm.yyyy'), 816139.6999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('18.08.2014', 'dd.mm.yyyy'), 704591.0999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('20.08.2014', 'dd.mm.yyyy'), 651167.1999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('23.08.2014', 'dd.mm.yyyy'), 758255.3999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('30.08.2014', 'dd.mm.yyyy'), 820233.0999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('08.09.2014', 'dd.mm.yyyy'), 746762.3999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('13.09.2014', 'dd.mm.yyyy'), 824817.0999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('14.09.2014', 'dd.mm.yyyy'), 1020081.0999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('16.09.2014', 'dd.mm.yyyy'), 745128.1999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('19.09.2014', 'dd.mm.yyyy'), 638561.199999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('23.09.2014', 'dd.mm.yyyy'), 799759.5999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('02.10.2014', 'dd.mm.yyyy'), 886407.6999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('06.10.2014', 'dd.mm.yyyy'), 702969.6999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('07.10.2014', 'dd.mm.yyyy'), 708959.8999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('13.10.2014', 'dd.mm.yyyy'), 729093.9999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('26.10.2014', 'dd.mm.yyyy'), 914511.199999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('05.11.2014', 'dd.mm.yyyy'), 828710.899999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('10.11.2014', 'dd.mm.yyyy'), 785824.9999999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('11.11.2014', 'dd.mm.yyyy'), 932471.5999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('12.11.2014', 'dd.mm.yyyy'), 827139.199999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('14.11.2014', 'dd.mm.yyyy'), 563047.7999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('15.11.2014', 'dd.mm.yyyy'), 1142983.3000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('20.11.2014', 'dd.mm.yyyy'), 783730.6999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('01.12.2014', 'dd.mm.yyyy'), 725694.4999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('13.12.2014', 'dd.mm.yyyy'), 1214870.9000000001);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('15.12.2014', 'dd.mm.yyyy'), 906484.3999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('20.12.2014', 'dd.mm.yyyy'), 986265.9999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('21.12.2014', 'dd.mm.yyyy'), 1262943.4);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('03.01.2015', 'dd.mm.yyyy'), 745418.9999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('11.01.2015', 'dd.mm.yyyy'), 833417.7999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('12.01.2015', 'dd.mm.yyyy'), 668162.7999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('20.01.2015', 'dd.mm.yyyy'), 842213.1999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('22.01.2015', 'dd.mm.yyyy'), 840240.0999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('30.01.2015', 'dd.mm.yyyy'), 625582.899999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('01.02.2015', 'dd.mm.yyyy'), 866060.1999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('05.02.2015', 'dd.mm.yyyy'), 814027.2999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('11.02.2015', 'dd.mm.yyyy'), 753841.9999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('22.02.2015', 'dd.mm.yyyy'), 1420275.8000000005);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('24.02.2015', 'dd.mm.yyyy'), 769542.6999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('28.02.2015', 'dd.mm.yyyy'), 1025486.599999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('02.03.2015', 'dd.mm.yyyy'), 922317.5999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('08.03.2015', 'dd.mm.yyyy'), 1467246.999999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('10.03.2015', 'dd.mm.yyyy'), 803240.7999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('12.03.2015', 'dd.mm.yyyy'), 848991.1999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('14.03.2015', 'dd.mm.yyyy'), 1055344.1999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('16.03.2015', 'dd.mm.yyyy'), 690847.5999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('21.03.2015', 'dd.mm.yyyy'), 904624.5999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('26.03.2015', 'dd.mm.yyyy'), 752472.5999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('27.03.2015', 'dd.mm.yyyy'), 714584.4999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('28.03.2015', 'dd.mm.yyyy'), 927107.2999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('29.03.2015', 'dd.mm.yyyy'), 1104008.1999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('01.04.2015', 'dd.mm.yyyy'), 832486.7999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('07.04.2015', 'dd.mm.yyyy'), 752105.9999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('10.04.2015', 'dd.mm.yyyy'), 664817.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('11.04.2015', 'dd.mm.yyyy'), 1291213.2000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('14.04.2015', 'dd.mm.yyyy'), 929438.4999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('17.04.2015', 'dd.mm.yyyy'), 545713.0999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('23.04.2015', 'dd.mm.yyyy'), 792644.699999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('26.04.2015', 'dd.mm.yyyy'), 1013229.6999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('30.04.2015', 'dd.mm.yyyy'), 1019023.3999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('01.05.2015', 'dd.mm.yyyy'), 664501.8999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('04.05.2015', 'dd.mm.yyyy'), 755164.6999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('11.05.2015', 'dd.mm.yyyy'), 780419.2999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('16.05.2015', 'dd.mm.yyyy'), 915231.0999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('22.05.2015', 'dd.mm.yyyy'), 674784.5999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('26.05.2015', 'dd.mm.yyyy'), 743556.8999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('27.05.2015', 'dd.mm.yyyy'), 639226.3999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('02.06.2015', 'dd.mm.yyyy'), 830911.8999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('06.06.2015', 'dd.mm.yyyy'), 656643.2999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('07.06.2015', 'dd.mm.yyyy'), 950697.5999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('10.06.2015', 'dd.mm.yyyy'), 820541.1999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('13.06.2015', 'dd.mm.yyyy'), 790102.4999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('14.06.2015', 'dd.mm.yyyy'), 991460.3999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('26.06.2015', 'dd.mm.yyyy'), 735869.0999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('29.06.2015', 'dd.mm.yyyy'), 772990.9999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('30.06.2015', 'dd.mm.yyyy'), 802916.899999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('02.07.2015', 'dd.mm.yyyy'), 891277.6999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('04.07.2015', 'dd.mm.yyyy'), 857119.8999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('13.07.2015', 'dd.mm.yyyy'), 735780.7999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('15.07.2015', 'dd.mm.yyyy'), 807020.4999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('16.07.2015', 'dd.mm.yyyy'), 909959.7999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('21.07.2015', 'dd.mm.yyyy'), 758882.0999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('22.07.2015', 'dd.mm.yyyy'), 702651.5999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('24.07.2015', 'dd.mm.yyyy'), 477440.7999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('01.08.2015', 'dd.mm.yyyy'), 921626.6999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('02.08.2015', 'dd.mm.yyyy'), 889611.099999998);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('08.08.2015', 'dd.mm.yyyy'), 784190.6999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('11.08.2015', 'dd.mm.yyyy'), 695157.5999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('12.08.2015', 'dd.mm.yyyy'), 668490.8999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('16.08.2015', 'dd.mm.yyyy'), 730521.7999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('18.08.2015', 'dd.mm.yyyy'), 830731.2999999982);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('19.08.2015', 'dd.mm.yyyy'), 656073.399999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('25.08.2015', 'dd.mm.yyyy'), 680032.4999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('29.08.2015', 'dd.mm.yyyy'), 1019043.1999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('07.09.2015', 'dd.mm.yyyy'), 758949.8999999996);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('13.09.2015', 'dd.mm.yyyy'), 867744.6999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('18.09.2015', 'dd.mm.yyyy'), 559204.0999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('19.09.2015', 'dd.mm.yyyy'), 954186.399999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('21.09.2015', 'dd.mm.yyyy'), 819830.3999999991);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('23.09.2015', 'dd.mm.yyyy'), 718263.2999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('27.09.2015', 'dd.mm.yyyy'), 1039791.8999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('02.10.2015', 'dd.mm.yyyy'), 706362.1999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('15.10.2015', 'dd.mm.yyyy'), 950092.0999999988);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('17.10.2015', 'dd.mm.yyyy'), 1030149.8999999994);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('19.10.2015', 'dd.mm.yyyy'), 725648.6999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('23.10.2015', 'dd.mm.yyyy'), 624776.5999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('27.10.2015', 'dd.mm.yyyy'), 939025.8999999997);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('28.10.2015', 'dd.mm.yyyy'), 792414.6999999986);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('29.10.2015', 'dd.mm.yyyy'), 725796.4999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('05.11.2015', 'dd.mm.yyyy'), 913697.4999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('06.11.2015', 'dd.mm.yyyy'), 584192.6999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('07.11.2015', 'dd.mm.yyyy'), 991450.0999999993);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('11.11.2015', 'dd.mm.yyyy'), 819418.9999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('12.11.2015', 'dd.mm.yyyy'), 1094262.499999999);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('14.11.2015', 'dd.mm.yyyy'), 863826.9999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('16.11.2015', 'dd.mm.yyyy'), 782994.8999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('21.11.2015', 'dd.mm.yyyy'), 967714.1999999983);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('26.11.2015', 'dd.mm.yyyy'), 1008116.2000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('29.11.2015', 'dd.mm.yyyy'), 849369.5999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('04.12.2015', 'dd.mm.yyyy'), 884610.2999999989);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('13.12.2015', 'dd.mm.yyyy'), 937648.3999999987);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('14.12.2015', 'dd.mm.yyyy'), 928036.5999999985);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('17.12.2015', 'dd.mm.yyyy'), 1073949.2000000002);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('18.12.2015', 'dd.mm.yyyy'), 1090061.6999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('20.12.2015', 'dd.mm.yyyy'), 922447.9999999984);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('23.12.2015', 'dd.mm.yyyy'), 958763.7999999992);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('27.12.2015', 'dd.mm.yyyy'), 1072242.4999999995);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('28.12.2015', 'dd.mm.yyyy'), 1222390.7000000007);
+
+INSERT INTO NFVSN (STRG, DT, SALES) 
+VALUES ('Склад 66', to_date('31.12.2015', 'dd.mm.yyyy'), 3102067.7000000086);
+
